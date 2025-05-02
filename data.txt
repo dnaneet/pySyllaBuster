@@ -1,0 +1,1336 @@
+28
+00:03:06,670 --> 00:03:13,700
+. Buckling of colns.
+
+29
+00:03:17,640 --> 00:03:22,120
+. Excuse me. , is the central angel.
+
+30
+00:03:27,500 --> 00:03:32,600
+Broccoli. Or.
+
+31
+00:03:37,770 --> 00:03:52,790
+Voles. . Interesting topic because mathematically, when it comes under the age, .
+
+32
+00:03:58,290 --> 00:04:03,670
+Theories of. Flight publication.
+
+33
+00:04:04,730 --> 00:04:09,530
+Be if you, . Cathedral or any of bifurcation.
+
+34
+00:04:10,400 --> 00:04:18,240
+, the National Guard and the engineered world are filled with events that have visitation.
+
+35
+00:04:18,560 --> 00:04:29,410
+Does anyone know what bifurcation means in English? Body modification, people would know it as, you know, splitting their time into two pieces, right?
+
+36
+00:04:29,660 --> 00:04:33,560
+So what about the patient? I know that that's how I feel. But, you know, people do what they have to do.
+
+37
+00:04:34,120 --> 00:04:37,320
+What do you think? Yeah. Splitting into two.
+
+38
+00:04:37,630 --> 00:04:47,260
+Right. Two different parts. , some very common examples in engineering in your kitchen on bifurcation is, ,
+
+39
+00:04:47,440 --> 00:04:51,190
+if you want to boil water in a kettle or, you know, saucepan or something like that.
+
+40
+00:04:51,640 --> 00:04:55,180
+, you know, you turn your stove on, whether it's electric or flame, it doesn't really matter.
+
+41
+00:04:55,210 --> 00:04:59,650
+You have your saucepan or kettle or whatever. You fill water into it and place it on the stove.
+
+42
+00:05:00,100 --> 00:05:05,530
+, after a while, you know, depending on the intensity of the flame or the heat flux, ,
+
+43
+00:05:05,530 --> 00:05:11,620
+you hear some small bubbling events and then explosive bubbling and, you know, you have 100 degree Celsius water at one time.
+
+44
+00:05:11,620 --> 00:05:14,620
+Must be right for that process.
+
+45
+00:05:14,620 --> 00:05:23,350
+You actually took the water from compressed liquid to possibly, , saturated liquid in the saturated liquid, , throw on some mixture and so on.
+
+46
+00:05:24,130 --> 00:05:26,710
+And when you did that, you went through different stages.
+
+47
+00:05:28,640 --> 00:05:35,810
+So if he hasn't water to boiling water, there was a stage in between where it went from water to bubbles to water to bubbles to bubbles.
+
+48
+00:05:36,940 --> 00:05:38,770
+Right. So that's kind of like a plateau state.
+
+49
+00:05:39,250 --> 00:05:45,790
+And that's a bifurcation you went from, not you were not just water at some critical point, you started that the water started diverging into vapor.
+
+50
+00:05:46,970 --> 00:05:50,450
+Right. So how did you not attain this critical point?
+
+51
+00:05:50,450 --> 00:05:56,030
+Your water would have remained liquid. Water would have gone this way. But because the critical point is temperature and pressure was achieved.
+
+52
+00:05:56,180 --> 00:06:03,980
+You went into labor, right? , another example that happens, , and this is somewhat related to chemical kinetics.
+
+53
+00:06:04,130 --> 00:06:09,230
+Does anyone work with, you know, bacon on bread or, you know, , , pizza dough or anything like that?
+
+54
+00:06:09,230 --> 00:06:13,040
+Work with yeast. Work with yeast. So how do you work with yeast? How do you how do you activate it?
+
+55
+00:06:14,110 --> 00:06:18,399
+Warm water. Warm water. So how do you do it? Warm or maybe warm water?
+
+56
+00:06:18,400 --> 00:06:26,350
+Sugar? Warm water? Honey or just warm water? Basically, you've got about 150ml of warm water and you can add like 5 to 10g of yeast.
+
+57
+00:06:26,620 --> 00:06:29,260
+And after a while you have this bubbling right.
+
+58
+00:06:29,440 --> 00:06:34,750
+The next time you try this, if anyone wants to do this, what you want to do is instead of waiting for a long time,
+
+59
+00:06:35,140 --> 00:06:38,470
+usually takes like 3 to 6 minutes depending on how old is this?
+
+60
+00:06:38,860 --> 00:06:47,230
+Instead of waiting for a long time. , just tap your containers, , in half the amount of time that you wait.
+
+61
+00:06:47,560 --> 00:06:54,190
+And you may actually find that small nuclei of yeast suddenly grow and expand, and there's explosive, , activation.
+
+62
+00:06:54,820 --> 00:06:59,620
+Now, there was a perturbation that led to an activation energy being overcome.
+
+63
+00:06:59,620 --> 00:07:04,989
+And then you have yeast growth. That's also a bifurcation. , and the critical point there was the perturbation.
+
+64
+00:07:04,990 --> 00:07:09,580
+When you tap your container and it has to be a significant perturbation, it can't be a small little pool.
+
+65
+00:07:09,790 --> 00:07:15,550
+It needs to be a tap that rings at 100%. Right. So that kind of a perturbation leads to your yeast growth sometimes.
+
+66
+00:07:15,940 --> 00:07:19,990
+, can you think of any other examples where you could have such a bifurcation?
+
+67
+00:07:24,820 --> 00:07:28,870
+You could say that the lake effect snow that we have is kind of like a bifurcation.
+
+68
+00:07:29,740 --> 00:07:35,830
+Lake effect is the parameter. The lake is the parameter that affects the local weather.
+
+69
+00:07:35,830 --> 00:07:40,780
+Sometimes, you know, you may not have a forecast of snow, but suddenly it snows.
+
+70
+00:07:41,980 --> 00:07:47,080
+June 2005. That happened. It didn't last very long, but I was so straight.
+
+71
+00:07:47,090 --> 00:07:52,010
+That's lake effect. There was a bifurcation point. A critical point was reached suddenly and you know, when you didn't expect it.
+
+72
+00:07:53,510 --> 00:07:59,720
+So June 2005 here. , so any other examples you can think of for bifurcation like that?
+
+73
+00:07:59,750 --> 00:08:04,190
+Yes. , right. , for freezer surgery.
+
+74
+00:08:05,120 --> 00:08:10,550
+That's fantastic. Yes. So that's, , supercooled, , liquid, , to ice formation.
+
+75
+00:08:10,850 --> 00:08:17,239
+Yes, that does happen. You need really specific, , constraints or parameters for that.
+
+76
+00:08:17,240 --> 00:08:21,230
+Your water needs to be really as clean as possible. The container needs to be clean.
+
+77
+00:08:21,440 --> 00:08:25,340
+The heat transfer from the container should be really uniform all through the vole of water.
+
+78
+00:08:25,550 --> 00:08:30,500
+And you should have had no perturbation until you open your freezer. So yeah, but there was a critical point,
+
+79
+00:08:30,500 --> 00:08:36,110
+which was a combination of all these events that led to water going to ice like this, literally in the snap of a finger.
+
+80
+00:08:36,110 --> 00:08:44,719
+You know, any other example bifurcation generally in life, you know, household behaviors, experiences.
+
+81
+00:08:44,720 --> 00:08:53,040
+What do you think? Mob dynamics is a lot of bifurcation theory.
+
+82
+00:08:53,490 --> 00:08:57,260
+If you put 2 or 3 people angry people in a room, not much happens. You put 20.
+
+83
+00:08:57,270 --> 00:09:00,930
+There's a critical point, after which there is just a, you know, you need police presence.
+
+84
+00:09:01,800 --> 00:09:05,070
+There's a lot of study, , on mob dynamics, how mobs behave.
+
+85
+00:09:05,070 --> 00:09:08,730
+And you need a critical mass of interacting bodies, interacting people, information exchange.
+
+86
+00:09:09,360 --> 00:09:12,380
+That's a life equation. But we won't go into those details. What we do.
+
+87
+00:09:12,390 --> 00:09:16,710
+And that was my doctoral work, not mob dynamics, but, you know, bifurcation theory to a large extent.
+
+88
+00:09:17,400 --> 00:09:22,290
+, so buckling of colns is an example of bifurcation theory.
+
+89
+00:09:22,650 --> 00:09:28,040
+Now, first we have to understand what exactly a coln is. What's a coln in the context of certain materials?
+
+90
+00:09:28,050 --> 00:09:32,360
+, mechanics and materials. , yeah.
+
+91
+00:09:32,360 --> 00:09:35,480
+It's something that's kind of like. It's it's like a filler, right?
+
+92
+00:09:35,510 --> 00:09:40,219
+Yeah. A filler is a coln. Right? So I have a strand of spaghetti here.
+
+93
+00:09:40,220 --> 00:09:45,740
+Right. So this is, , , long, , what what can you say about its aspect ratio?
+
+94
+00:09:48,950 --> 00:09:52,340
+Aspect ratio. Yes. It's ten. Right. Any other word?
+
+95
+00:09:52,640 --> 00:09:57,670
+ , that's synonymous with ten. Skinny.
+
+96
+00:09:57,680 --> 00:10:02,360
+Anything else? But not always.
+
+97
+00:10:02,690 --> 00:10:05,740
+Maybe I'll take that. Okay. So let's let's what?
+
+98
+00:10:05,750 --> 00:10:10,780
+What's the word target here? . And.
+
+99
+00:10:16,240 --> 00:10:21,110
+What else? Starts with an S starts lined lambda.
+
+100
+00:10:22,600 --> 00:10:33,910
+That's the word used in mechanics of materials. Because it's like if you use any other word that's factual, you don't do the selector specific things.
+
+101
+00:10:34,210 --> 00:10:37,810
+So so this is a learned, , , structure.
+
+102
+00:10:39,500 --> 00:10:44,700
+Can you define us? London as ratio. Kind of like an aspect ratio, really.
+
+103
+00:10:44,700 --> 00:10:54,180
+It's like a leg to a radius or a radius to comment on their. , it's not a radius that will replace radius with a different parameters of.
+
+104
+00:10:54,750 --> 00:11:01,080
+, so, you know, if I hold it at this end and if I apply a downward law,
+
+105
+00:11:01,380 --> 00:11:04,650
+transpose downward law, this is a kind of a little over the cantilever deflection.
+
+106
+00:11:05,220 --> 00:11:10,320
+Right. And I'm making all the standard assptions on mechanics of materials that may not be true because,
+
+107
+00:11:10,320 --> 00:11:14,220
+, , spaghetti or any kind of pasta isn't necessarily isotropic.
+
+108
+00:11:14,550 --> 00:11:19,310
+Okay. And also this is kind of a rigid material, , springy because of its levels.
+
+109
+00:11:19,320 --> 00:11:23,130
+So, so the first experiment was applying a cantilever kind of a load to it.
+
+110
+00:11:23,850 --> 00:11:27,930
+The second experiment is an axial flow along the axis.
+
+111
+00:11:28,920 --> 00:11:35,040
+You see the difference in the deflection. That's the deflection with the axial load applied to a slender structural element.
+
+112
+00:11:35,490 --> 00:11:42,750
+Right. That's the deflection of the transverse. The transverse deflection due to transverse movement  on a slender structural element.
+
+113
+00:11:42,960 --> 00:11:48,990
+Which one of these is buckling. Is this buckling or is this one or this is what is this buckling.
+
+114
+00:11:50,550 --> 00:11:56,980
+Axial loading is buckling. How do you know this is buckling. We just know that this is what buckling means, right?
+
+115
+00:11:57,880 --> 00:12:01,210
+Now that's just etymology. So that's Butler now.
+
+116
+00:12:02,460 --> 00:12:13,810
+So. So what's the difference between buckling and compression? What about the reflection?
+
+117
+00:12:15,560 --> 00:12:18,790
+Okay, so the reflections like that. Anything else to add to that?
+
+118
+00:12:19,430 --> 00:12:24,310
+, do you have a present? I just passed how much cash?
+
+119
+00:12:25,060 --> 00:12:29,110
+By driver. You can have compassion without buckling. Yes. .
+
+120
+00:12:30,200 --> 00:12:33,770
+Butler [INAUDIBLE] involves. . .
+
+121
+00:12:35,140 --> 00:12:40,980
+So in an actual load. . , , slender upper right here.
+
+122
+00:12:40,990 --> 00:12:46,140
+. The, , member of competition.
+
+123
+00:12:46,160 --> 00:12:53,550
+Competition for bend in the transfer of a structure structure perpendicular to the axis for.
+
+124
+00:12:54,240 --> 00:12:59,250
+So basically it leads to transverse deflection. Right. But conversion leads to accurate reflection.
+
+125
+00:13:00,240 --> 00:13:13,660
+So why didn't this compress and buckle? Because that's bifurcation.
+
+126
+00:13:15,590 --> 00:13:18,830
+Any axial element or structure can buckle.
+
+127
+00:13:19,130 --> 00:13:22,630
+If a critical load is reached. Okay?
+
+128
+00:13:23,320 --> 00:13:28,960
+Yes. Just so happens that for slender members, the critical load is much lower than for.
+
+129
+00:13:30,980 --> 00:13:40,310
+Sharp remembers. You know, I'd have to, , apply a significantly different, higher axial load for buckling to happen.
+
+130
+00:13:40,520 --> 00:13:45,910
+But even before that, compression failure would occur for a short structural part,
+
+131
+00:13:45,920 --> 00:13:50,540
+for a slender, slack structural element, even before compression, you would have more clips.
+
+132
+00:13:50,600 --> 00:13:55,550
+Now the thing, the difference, another difference between buckling and compression is buffering is failure.
+
+133
+00:13:55,940 --> 00:13:59,750
+Compression isn't. Failure does not have to failure. Element construction.
+
+134
+00:14:01,130 --> 00:14:06,200
+If you have a structural element that takes axial loads and it shows that shape, it has failed.
+
+135
+00:14:06,260 --> 00:14:09,590
+That's it. It's not. It's not. That's buckling. Buckling is a failure.
+
+136
+00:14:10,990 --> 00:14:17,260
+Compression isn't failure. Compression is already happening. Okay, so Slenderman less definitely has something to do with better.
+
+137
+00:14:19,660 --> 00:14:26,860
+And indeed there is something called this randomness ratio, which we will only very briefly, , assess.
+
+138
+00:14:30,150 --> 00:14:33,990
+So bending versus buckling. It's a crucial difference to understanding.
+
+139
+00:14:34,470 --> 00:14:40,340
+So in case of the case of. Bending light.
+
+140
+00:14:40,350 --> 00:14:52,440
+So if you say I can't remember being. The cantilever beam has a transverse load capital F applied to it, leading to a deflection like that.
+
+141
+00:14:52,620 --> 00:14:58,110
+So that's the deflection. Let's call it y x because that's the x direction.
+
+142
+00:14:59,400 --> 00:15:03,840
+That's your definition. , in the case of, .
+
+143
+00:15:06,900 --> 00:15:16,550
+In the case of. Upcoming.
+
+144
+00:15:18,690 --> 00:15:32,490
+, you could still have a cantilever beam. But we have a compressive force applied, not tensile, but its compressive force leading up to something.
+
+145
+00:15:34,480 --> 00:15:42,630
+Like that. That's the. So when you have a transpose deflection due to a compressive force.
+
+146
+00:15:43,630 --> 00:15:52,210
+You probably have. But now. The difference?
+
+147
+00:15:52,390 --> 00:15:58,240
+You know, the governing equation difference between these two is also if you are mathematically in place,
+
+148
+00:15:58,420 --> 00:16:00,550
+it's fascinating the governing equation with this.
+
+149
+00:16:00,940 --> 00:16:12,669
+So you know that for the deflected the  elastic curve inflation was  y b squared y b x squared equals the bending moment.
+
+150
+00:16:12,670 --> 00:16:20,320
+Basically use the singularity function approach to  represent all the bending moments on a beam on the right hand side.
+
+151
+00:16:20,560 --> 00:16:24,370
+Right. And you integrate these things lines up like a boundary conditions and solve for what
+
+152
+00:16:24,520 --> 00:16:30,760
+that was your deflection equation or elastic or equation in the case of buckling.
+
+153
+00:16:31,240 --> 00:16:36,910
+The governing equation is you still have a e I b squared y d x squared.
+
+154
+00:16:36,910 --> 00:16:40,240
+Because you know buckling also leads to curvature. This is a curvature.
+
+155
+00:16:40,630 --> 00:16:44,870
+Second order coverage. This is a second third order curvature. Mhm.
+
+156
+00:16:46,550 --> 00:16:53,640
+But in this case. You have f times y as a function of x on the right hand side.
+
+157
+00:16:55,120 --> 00:16:56,380
+Deflection comes up. So.
+
+158
+00:16:56,590 --> 00:17:07,690
+So essentially this boils down to e5 squared y d x squared minus x y or plus m y depending on the load and the moment that equals zero.
+
+159
+00:17:09,570 --> 00:17:16,170
+Does anyone remember the differential equations? What kind of a solution would you get for this particular form of differential equation?
+
+160
+00:17:21,290 --> 00:17:25,610
+You get a harmonic equation like a sine on a cosine or a combination. For this.
+
+161
+00:17:26,640 --> 00:17:31,950
+Right? , so in this case, you don't get I want to get questions for you integrate both sides wise.
+
+162
+00:17:32,340 --> 00:17:36,300
+, you get a and algebraic formulation. This is algebraic.
+
+163
+00:17:36,450 --> 00:17:46,500
+This is harmonic. So battling leads to sine cosine waves. , and buckling is one of the eigenvalue problems in engineering.
+
+164
+00:17:51,680 --> 00:17:57,350
+The, , heat conduction equation is. The other eigenvalue problem in engineering will be eventually.
+
+165
+00:18:02,190 --> 00:18:06,380
+Okay, so that's the difference between bending and buckling. And that's when you need a critical margin locally.
+
+166
+00:18:06,840 --> 00:18:10,200
+Apply for it to happen. Otherwise you just have compression.
+
+167
+00:18:11,230 --> 00:18:14,730
+And buckling is a type of failure. So what exactly is this critical mechanism?
+
+168
+00:18:18,180 --> 00:18:28,840
+Critical. Of course, you know, the word critical certainly implies that it is critical or very important to the structure.
+
+169
+00:18:29,140 --> 00:18:36,670
+But the critical role, the prefix critical in the critical buckling load phrase is more a mathematical relevance.
+
+170
+00:18:37,060 --> 00:18:43,870
+Critical point is, when you have a left hand side equal to zero and you solve for some lambda or some parameter.
+
+171
+00:18:44,440 --> 00:18:48,190
+So that's your critical buckling load. So what you need a buckling load.
+
+172
+00:18:48,190 --> 00:18:54,280
+And I won't derive the equation here because you need to actually solve a partial differential equation for this particular eigenvalue problem.
+
+173
+00:18:54,640 --> 00:19:00,640
+The critical buckling load denoted by p sub crb being below zero is critical equals.
+
+174
+00:19:01,830 --> 00:19:10,620
+Y squared. Many times I divided by, , something called m prime squared.
+
+175
+00:19:13,620 --> 00:19:20,160
+Be. Subscribe, subscribe. Critical. Uncle Spice Square II divided by alpine square foot.
+
+176
+00:19:20,430 --> 00:19:26,730
+Now, in this case, , fire is of course 3.14 or 22 divided by seven, if you wish to use that one.
+
+177
+00:19:27,240 --> 00:19:39,270
+, he is the, , modulus. I is the moment of inertia of the cross-section.
+
+178
+00:19:39,280 --> 00:19:46,200
+Geometric moment of inertia. And L Prime card.
+
+179
+00:19:46,440 --> 00:19:49,510
+, that is that length for our.
+
+180
+00:19:49,690 --> 00:19:59,880
+.  one. Okay. It's some length. And that is what, , how to compute.
+
+181
+00:20:02,080 --> 00:20:09,700
+And this is okay. So your [INAUDIBLE] equation. Will be ready to serve till the very last equation on our equation sheet.
+
+182
+00:20:09,880 --> 00:20:13,960
+That's about. Or inspiration.
+
+183
+00:20:18,990 --> 00:20:22,980
+I have two things on the equation. I'll tell you what each of these is.
+
+184
+00:20:29,700 --> 00:20:33,569
+So the first equation pi squared divided by r squared.
+
+185
+00:20:33,570 --> 00:20:38,830
+Right. , you could use R-squared or as long as only what happens to the denominator.
+
+186
+00:20:39,090 --> 00:20:43,800
+I like to use l prime to differentiate it from L, and I don't think it is accurate to use.
+
+187
+00:20:44,370 --> 00:20:47,670
+It's not that it's accurate. It's more appropriate use L prime but elsewhere.
+
+188
+00:20:48,540 --> 00:20:52,580
+, now if I squared e I divided by two.
+
+189
+00:20:52,590 --> 00:21:00,900
+Like what happened here? Then what in the world. Y squared is a divided by l divided by r squared.
+
+190
+00:21:02,970 --> 00:21:12,620
+So in this particular shape, the one thing I can probably deduce is, you know, the pi squared remains, the E remains greater.
+
+191
+00:21:13,050 --> 00:21:20,340
+, the R remains, but it's been modified to L divided by R, and the I has been replaced by a.
+
+192
+00:21:20,430 --> 00:21:26,470
+So what do you think A is? Yes.
+
+193
+00:21:26,840 --> 00:21:31,250
+Yes. Low hanging fruit? Yes. It's. Maybe it is area. What's up for you?
+
+194
+00:21:31,660 --> 00:21:36,360
+It is a what? What if this is an IBM?
+
+195
+00:21:37,810 --> 00:21:45,200
+Now what if your problem is IBM? It's not on circle anymore. Use the identification nber.
+
+196
+00:21:45,440 --> 00:21:49,060
+R is the radius of gyration. Okay.
+
+197
+00:21:49,990 --> 00:21:53,140
+Now, , that's what the, , here is.
+
+198
+00:21:54,030 --> 00:22:00,339
+That's one of the reasons I like to see for the abstract is okay, because it's very easy to confuse them that it looks like.
+
+199
+00:22:00,340 --> 00:22:03,340
+Right. This it's all that's going to be shown in this one. So radius of gyration.
+
+200
+00:22:04,330 --> 00:22:16,159
+So what's the radius of gyration. Where did you see the radius of gyration?
+
+201
+00:22:16,160 --> 00:22:20,540
+Someone laughs. I think there was a lot of inertia. So what is it?
+
+202
+00:22:28,360 --> 00:22:34,930
+You think about that one? . And, like, look at the ones that alpine.
+
+203
+00:22:44,450 --> 00:22:51,460
+The. L prime.
+
+204
+00:22:57,360 --> 00:23:03,760
+And. The effect. Off and.
+
+205
+00:23:05,510 --> 00:23:09,950
+Conditions. Now, I can tell you now that these.
+
+206
+00:23:10,920 --> 00:23:18,090
+This particular piece is not on their equations. So when something is not on your equations, you die and inform you affect you.
+
+207
+00:23:18,210 --> 00:23:19,950
+It's best that you committed to memory.
+
+208
+00:23:21,000 --> 00:23:29,190
+However, usually when I write pieces of the exam, , and if I have to ask students something that's not on the equation sheet,
+
+209
+00:23:29,520 --> 00:23:34,800
+I do my best to provide that information on the exam. Okay, but don't count on it.
+
+210
+00:23:35,100 --> 00:23:38,240
+Don't count on the fact of health condition. Right.
+
+211
+00:23:38,310 --> 00:23:42,690
+So you have an applied clause. And we're talking about colns which have been for all practical purposes.
+
+212
+00:23:42,990 --> 00:23:47,140
+But when you're considering buckling type loads, , they're called colns.
+
+213
+00:23:47,670 --> 00:23:57,960
+And because colns are generally imagined upright and vertical. So if you have a coln that is bent at one end and bent at the other end.
+
+214
+00:24:01,890 --> 00:24:06,040
+All right. That's right. And mine is the effective 90.
+
+215
+00:24:09,250 --> 00:24:12,430
+Effective. That's what it is.
+
+216
+00:24:17,780 --> 00:24:27,140
+Say the problem has left capital L. The effect of pinning the coln at the top and the bottom right.
+
+217
+00:24:27,150 --> 00:24:35,310
+It's a bean bean, bean. Bean condition leads to alkaline being equal to at.
+
+218
+00:24:38,820 --> 00:24:51,360
+Okay. Let's say that you have filled the coln at one end and on the other end you have a load bearing, , situation which is on rollers.
+
+219
+00:24:52,020 --> 00:24:55,260
+So in this case, that's your load of the zero load.
+
+220
+00:24:57,210 --> 00:25:02,190
+Some rollups, so excuse me. Not a thing, but, , the bottom is fixed.
+
+221
+00:25:02,280 --> 00:25:05,880
+That's right. That's fixed. So in this case, we have fixed.
+
+222
+00:25:08,300 --> 00:25:15,740
+Role. Then your l prime is equal to L divided by two half the length.
+
+223
+00:25:18,840 --> 00:25:25,000
+Say you have. Fixed at one end and three at the other.
+
+224
+00:25:27,000 --> 00:25:30,000
+So this you could call it fixed. Free or free?
+
+225
+00:25:30,000 --> 00:25:37,070
+Fixed. L crime equals two times a week.
+
+226
+00:25:37,760 --> 00:25:44,640
+That's the. No. And finally, you can have a coln that is fixed.
+
+227
+00:25:46,010 --> 00:25:51,140
+At one end and pinned at the other end, and you have your vertical load acted like that.
+
+228
+00:25:51,500 --> 00:25:55,140
+So you have a fixed. Bend.
+
+229
+00:25:56,020 --> 00:26:01,400
+Take. Spin. In this case O'Brien S point seven.
+
+230
+00:26:03,220 --> 00:26:10,630
+Those are the three. And excuse me for air conditions that you will, , look at, I think in your textbook also, for that matter.
+
+231
+00:26:11,440 --> 00:26:14,610
+, so for the critical buckling load in this case. Right.
+
+232
+00:26:16,660 --> 00:26:21,490
+Is five square divided by L prime displayed.
+
+233
+00:26:23,790 --> 00:26:31,380
+So the first thing I need to do is obviously analyze, , what kind of conditions you have and replace l prime, , in appropriate fashion.
+
+234
+00:26:32,520 --> 00:26:40,740
+So we'll take a two minute break, look at factor of safety for buckling and then do one example problem, , today and two on Wednesday.
+
+235
+00:29:04,110 --> 00:29:11,460
+Okay. So. You have thoughts of of saying.
+
+236
+00:29:23,120 --> 00:29:30,920
+The factor of safety for buckling? Yes, is the first one. Right.
+
+237
+00:29:35,390 --> 00:29:40,430
+Center of safety for that. That of safety for all kinds of yielding failures.
+
+238
+00:29:40,790 --> 00:29:44,989
+, is based on, , failure theory.
+
+239
+00:29:44,990 --> 00:29:48,570
+Like von Mises stresses of failure theory, it's a factor of safety is based on that.
+
+240
+00:29:48,830 --> 00:29:53,330
+The factor of safety for buckling, , is defined slightly differently.
+
+241
+00:29:54,480 --> 00:29:57,710
+Okay, so you have to think about buckling like this.
+
+242
+00:29:57,720 --> 00:30:07,470
+If you have some sort of a structural membrane I-beam, say, whether it is horizontal or vertical, if it has a compressive load applied to it.
+
+243
+00:30:08,890 --> 00:30:12,010
+And if you have a sneaky suspicion that, hey, this thing is slender.
+
+244
+00:30:13,280 --> 00:30:18,160
+Okay. The first thing you need to do is compute the critical buckling load.
+
+245
+00:30:19,460 --> 00:30:22,760
+Now note the equation for critical buckling load.
+
+246
+00:30:23,150 --> 00:30:30,139
+, only depends on, , the, , material property of a geometric property.
+
+247
+00:30:30,140 --> 00:30:34,880
+And any conditions does not depend on anything else. So that is the load.
+
+248
+00:30:36,330 --> 00:30:39,230
+Which leads to batteries, which are about leads to buckling. Okay.
+
+249
+00:30:39,240 --> 00:30:43,229
+So the first thing you want to do for a structural member that you think is long and has
+
+250
+00:30:43,230 --> 00:30:47,670
+an axial load compressive load applied to it is compute the critical buckling load.
+
+251
+00:30:49,160 --> 00:30:53,910
+Okay. And then you compare that critical buckling load to the applied load.
+
+252
+00:30:55,210 --> 00:31:01,840
+All right. If the critical buckling load is less than the applied compressive load, this structure will buckle.
+
+253
+00:31:02,960 --> 00:31:07,880
+If the critical buckling load is greater than the compressive load, the structure will not buckle.
+
+254
+00:31:07,880 --> 00:31:08,510
+It'll compress.
+
+255
+00:31:10,790 --> 00:31:18,170
+So you know, in chapter one, two, three, four, five we've had many conditions of compressive loading, but we've never checked for buckling.
+
+256
+00:31:18,560 --> 00:31:21,890
+But in reality, the first thing you do is check for buckling.
+
+257
+00:31:22,010 --> 00:31:25,190
+By comparing the critical buckling load to the applied compressive load.
+
+258
+00:31:25,730 --> 00:31:30,110
+If PCR is less than the be applied, this structure will buckle.
+
+259
+00:31:30,350 --> 00:31:34,430
+If PCR is greater than to be applied, then you will have regular compression.
+
+260
+00:31:35,000 --> 00:31:40,570
+Okay, so that's how you decide your compression. So the factor of safety is really a load ratio.
+
+261
+00:31:41,090 --> 00:31:46,750
+The phosphor buckling. Is the being.
+
+262
+00:31:48,230 --> 00:31:52,070
+Failure divided by be allowable.
+
+263
+00:31:52,400 --> 00:32:00,020
+In case of buckling that be failure is a very general to which is used because there are a variety of different types of buckling.
+
+264
+00:32:00,500 --> 00:32:09,320
+The specific theory of buckling we study in mechanics of materials is called Euler's coln buckling, much like the oil Bernoulli theorem.
+
+265
+00:32:09,590 --> 00:32:15,890
+It's like a simple coln buckling, right? So if you could have a different kind of a beam battling the names, escaping you right now,
+
+266
+00:32:15,920 --> 00:32:20,660
+you would realize that failure, the word failure with that particular, , abbreviation.
+
+267
+00:32:20,900 --> 00:32:26,300
+So in our case, the failure is the critical passing note. This critical putting mode is also critical, but also.
+
+268
+00:32:29,910 --> 00:32:36,480
+I us PCR test PCR which is either slow dividing by or.
+
+269
+00:32:37,760 --> 00:32:44,520
+So that's how the factor of safety is defined for. It is definitely different than computing the principal stresses.
+
+270
+00:32:44,520 --> 00:32:50,400
+And then computing the one means stress, and then computing the ratio between the yield stress and your one measly stress.
+
+271
+00:32:50,760 --> 00:32:56,160
+Okay. In this case you compared it. The ratio is the critical buckling load to the allowable.
+
+272
+00:32:58,530 --> 00:33:01,830
+, so let's take a look at.
+
+273
+00:33:02,990 --> 00:33:06,710
+One such example. She's doing this one for us.
+
+274
+00:33:06,890 --> 00:33:17,960
+Let me think about this for a minute. Yeah, because I think this is actually a great idea.
+
+275
+00:33:21,140 --> 00:33:25,100
+This is one of the worksheets I ask for you to print. If you had the time, you didn't.
+
+276
+00:33:25,100 --> 00:33:31,700
+No big deal. . So this is a better class problem.
+
+277
+00:33:33,590 --> 00:33:42,950
+And alin, , which is equals 70 GPA colns built into the ground, has a length of 2.2m and is under axial compressive load capital.
+
+278
+00:33:43,640 --> 00:33:49,969
+The dimensions of the cross-section for this coln are 210 millimeter by two sides are tangled in a section.
+
+279
+00:33:49,970 --> 00:33:55,580
+Right. So the two things you must do is continue your steps and report the critical buckling load in the allotted space.
+
+280
+00:33:55,580 --> 00:34:00,500
+So you need to computer critical luckily load and report it. That's part one.
+
+281
+00:34:01,730 --> 00:34:06,170
+Part two is if the factor of safety is 1.95 what is the allowable load.
+
+282
+00:34:06,350 --> 00:34:10,760
+So you work while reporting the nerical value of the appropriate allotted space.
+
+283
+00:34:13,510 --> 00:34:18,310
+So in this case, the by the way, the same assptions of the actual material still apply in this case.
+
+284
+00:34:18,520 --> 00:34:27,570
+There's no difference here. . Given information is we have equal 70 GPA, which is a Young's modulus.
+
+285
+00:34:27,990 --> 00:34:33,510
+, the capitals L, which is the length, not the effective length, but the length is 2.2m.
+
+286
+00:34:33,960 --> 00:34:39,300
+, is built into the ground. So I would prese that you have a fixed three situation.
+
+287
+00:34:42,020 --> 00:34:47,630
+Fixed three situation. . Some compress a lot of things.
+
+288
+00:34:48,230 --> 00:34:55,130
+, define two things. The critical buckling load and the allowable load.
+
+289
+00:34:55,160 --> 00:34:58,590
+You also have a factor of safety of 1.95.
+
+290
+00:34:58,590 --> 00:35:05,850
+That was the second part of the problem. , equations at our disposal.
+
+291
+00:35:07,370 --> 00:35:16,070
+, I lost critical buckling load, which is twice where the I divided by l prime squared and factor of safety,
+
+292
+00:35:16,250 --> 00:35:19,910
+which is critical buckling load divided by the allowable.
+
+293
+00:35:20,000 --> 00:35:25,340
+So it's a pretty simple problem, but it illinates all these different pieces and how they work together.
+
+294
+00:35:25,670 --> 00:35:32,830
+The assptions. , you know, you have, , certain poloni.
+
+295
+00:35:35,780 --> 00:35:42,830
+Small screen, small angle approximation of.
+
+296
+00:35:44,130 --> 00:35:47,270
+Linear elastic. Behavior.
+
+297
+00:35:50,110 --> 00:35:54,410
+, isotropic material properties. But.
+
+298
+00:35:58,860 --> 00:36:02,010
+And you could say. Filers. Buckling.
+
+299
+00:36:05,080 --> 00:36:07,900
+Won't hold your feet to the fire on that one. You could say I was butler.
+
+300
+00:36:10,460 --> 00:36:15,830
+So one of the things about Iowa's buckling is that it only works for a certain randomness ratio,
+
+301
+00:36:16,190 --> 00:36:20,120
+which is the, , the length of the coln divided by the radius of gyration.
+
+302
+00:36:20,540 --> 00:36:25,760
+Yeah. I don't remember the nber. The overall are the standardized ratio is like 20 or something for 30 minutes.
+
+303
+00:36:26,390 --> 00:36:31,910
+, so if it's below that, you have a significant divergence of a critical value from others.
+
+304
+00:36:32,150 --> 00:36:37,070
+So we are assing always one. So note that for the critical buckling load right.
+
+305
+00:36:37,400 --> 00:36:46,700
+, this is something you should be very , so the area of cross-section is 2% times 218 square millimeters.
+
+306
+00:36:48,850 --> 00:36:51,910
+, so length and other width and height.
+
+307
+00:36:52,060 --> 00:36:57,550
+It's not a square cross-section, it's a rectangular cross-section. So it has two separate moments of inertia.
+
+308
+00:37:00,580 --> 00:37:08,890
+A moment of inertia is a prominent feature of a critical path integral equation, depending on whether you place the structure.
+
+309
+00:37:10,870 --> 00:37:16,090
+My God. Like that.
+
+310
+00:37:16,100 --> 00:37:23,150
+So I'm looking at the structure from the top. Okay. And if that's my load being applied in this fashion or in this fashion,
+
+311
+00:37:23,660 --> 00:37:27,530
+depending on how I orient my structure, my geometric moment of inertia will be different.
+
+312
+00:37:29,050 --> 00:37:33,580
+One of them will be on the verge of a moment of inertia. , because you have.
+
+313
+00:37:33,580 --> 00:37:39,830
+See, that's x x. My life.
+
+314
+00:37:42,120 --> 00:37:49,370
+So you have ice up x x. Is 112, , cubed obviously.
+
+315
+00:37:49,700 --> 00:37:54,630
+, which would be 112 to 80 divided by two.
+
+316
+00:37:54,650 --> 00:37:59,150
+Thank you. , and you will have an excuse for that.
+
+317
+00:37:59,390 --> 00:38:12,200
+And the other side of life, which is again. What? Well, we ask you, but really it is, , X week you, which is one of 12 to 10 times to 18.
+
+318
+00:38:14,480 --> 00:38:18,470
+Just for your reference, I have calculated these I x x and I y y values.
+
+319
+00:38:18,680 --> 00:38:37,550
+The I x apparently is 384 .16 times ten to the -six meter to the fourth, while I, y y is to 16.09 times ten to the -six meter to the fourth.
+
+320
+00:38:41,760 --> 00:38:53,080
+So far the critical buckling load. So prime square which I should I use?
+
+321
+00:38:58,060 --> 00:39:06,780
+The smaller one, but why should I use the smaller one? Yes, because it was all for control.
+
+322
+00:39:07,050 --> 00:39:12,060
+Yes, it will result in a lower critical buckling load. , which is what you want to safeguard against.
+
+323
+00:39:12,090 --> 00:39:16,560
+So design to that. Right. So you want to use the smaller AI for buckling problems.
+
+324
+00:39:17,040 --> 00:39:20,040
+, so we have y squared time, 70 GPA.
+
+325
+00:39:20,040 --> 00:39:28,740
+That's 75 instead of the my pascals. , the smaller of the eyes is two 16.0 light and 76 meter to the fourth.
+
+326
+00:39:29,220 --> 00:39:32,310
+, in this particular case, , prime.
+
+327
+00:39:34,230 --> 00:39:37,469
+Is fixed fee. The only information I have is.
+
+328
+00:39:37,470 --> 00:39:42,660
+Look. It's built into the ground. There's no information provided about the point where the load is applied to and asse it is free.
+
+329
+00:39:43,050 --> 00:39:46,140
+Because I don't have any information so fixed free has two times error.
+
+330
+00:39:46,710 --> 00:39:50,820
+Therefore that is two times 2.2m.
+
+331
+00:39:52,100 --> 00:40:01,240
+So that my critical buckling load for this particular scenario is pretty late, at 7711 kilonewtons at seven megatons.
+
+332
+00:40:02,890 --> 00:40:05,920
+So I want to report it over to 7711.
+
+333
+00:40:06,310 --> 00:40:09,370
+Kilonewtons is my critical [INAUDIBLE] load. That is substantial.
+
+334
+00:40:09,370 --> 00:40:15,490
+The loads that we've generally considered, , in our particular course so far are of the order of kilonewtons.
+
+335
+00:40:15,760 --> 00:40:18,940
+This is a mega Newton 7000 mega Newtons motor.
+
+336
+00:40:18,980 --> 00:40:24,010
+That is. So a critical bottom load.
+
+337
+00:40:24,550 --> 00:40:31,000
+Simple calculation, but you need a crucial recognition of which moment of inertia to use.
+
+338
+00:40:31,300 --> 00:40:37,629
+Especially if you have a, you know, rectangular cross or an IBM or something strange like that,
+
+339
+00:40:37,630 --> 00:40:41,320
+which would have a different moment of inertia depending on its axis of orientation.
+
+340
+00:40:46,790 --> 00:40:50,950
+So far, so good, I. This is just a formal application. , for.
+
+341
+00:40:54,070 --> 00:40:58,600
+Okay. The second part of the problem is if the factor of safety is 1.95.
+
+342
+00:40:58,720 --> 00:41:02,440
+What is the allowable level? Basic provides a factor of safety.
+
+343
+00:41:02,950 --> 00:41:08,830
+Is for buckling. Is the critical buckling load divided by the allowable load?
+
+344
+00:41:14,620 --> 00:41:22,240
+Got a lot of load. It's critical buckling load, dividing by the factor of safety, which is 7711.
+
+345
+00:41:23,110 --> 00:41:26,470
+ kilo Newton divided by 1.95.
+
+346
+00:41:27,460 --> 00:41:37,030
+Whatever that value is. So the allowable load is 3954.
+
+347
+00:41:37,060 --> 00:41:45,180
+Can I make an approximation? Up to 3954km.
+
+348
+00:41:47,930 --> 00:41:53,240
+So not a particularly difficult problem. Would you believe this was a final exam problem?
+
+349
+00:41:55,630 --> 00:42:02,020
+And final exam problem? Or would you believe that most of the class got it wrong? Yeah I know.
+
+350
+00:42:02,240 --> 00:42:05,120
+Bottom line is, , you just have to realize what's going on.
+
+351
+00:42:05,120 --> 00:42:11,480
+It's one single formula applied all over the place with, , a recognition of your end conditions and moment of inertia.
+
+352
+00:42:12,170 --> 00:42:20,960
+, I'll give you another surprisingly simple problem on Wednesday, which I think like 75 out of 85 students last semester, about almost.
+
+353
+00:42:22,520 --> 00:42:27,500
+, see you on Wednesday. Like.
+
+354
+00:42:35,000 --> 00:42:43,010
+. Yeah.
+
+355
+00:42:43,880 --> 00:42:59,600
+! .
+
+356
+00:43:00,290 --> 00:43:03,350
+. .
+
+357
+00:43:07,610 --> 00:43:12,050
+. .
+
+358
+00:43:14,660 --> 00:43:20,210
+ . I know I told you I.
+
+359
+00:43:22,970 --> 00:43:26,450
+Did you all think it was. What do you think you know about?
+
+360
+00:43:26,510 --> 00:43:29,630
+Yeah. Okay.
+
+361
+00:43:36,620 --> 00:43:36,980
+So.
+
