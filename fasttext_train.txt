@@ -1,0 +1,336 @@
+__label__0 [ Auto-generated transcript . Edits may applied clarity . ]
+__label__1 Okay , let 's get started Friday week nine .
+__label__2 Um . By way .
+__label__3 Does pen belong someone class ? Someone left office .
+__label__4 Not least . Maybe . Uh , okay .
+__label__5 So , uh , take break today , 20 minute , uh , please check email .
+__label__6 There two reflection , uh , thing break happened .
+__label__7 Uh , couple of , uh , multiple choice question .
+__label__8 I want keep tracking what 's continues useful you , particularly in-class , uh , session have .
+__label__9 Uh , I guess seen I shared result previous result you ,
+__label__10 would seem class , problem appear helpful useful student well .
+__label__11 Uh , reflection that . I know if , um , uh , changed .
+__label__12 And I 'd like know . Um . Yeah , I tried write joke .
+__label__13 Okay . It work out . Uh , I 'd like help that . I told joke week five , wa .
+__label__14 Why what ? What material say brittle material ?
+__label__15 You remember work number . And I tried write another joke neutral axis normal stress .
+__label__16 Eight . Well , joke writing business difficult . Okay , helped out .
+__label__17 Uh , terrible right now . It 's many word . I know it .
+__label__18 So help out . All right . So IBM partner rather , IBM break partner ?
+__label__19 Now the . Because partner crossed neutralizes much normal stress .
+__label__20 Does n't quite work like joke . I need fix it . For first two minute .
+__label__21 So question is , IBM break partner ?
+__label__22 Because partner crossed neutral axis much normal stress .
+__label__23 Basically , much stress relationship . But , know , kind stress .
+__label__24 It 's normal stress see crossed neutral axis .
+__label__25 How I fix job I tell next section mechanic material , far articulate fashion ?
+__label__26 No idea yet . So .
+__label__27 It 's supposed memorable think normal stress beam , know neutral axis stress .
+__label__28 Normal stress . Okay . It 's .
+__label__29 So ? Any idea ?
+__label__30 Uh , brainstorming here . It 's okay perfect .
+__label__31 Yes . If said something boundary . Boundaries ? Okay .
+__label__32 Where going that ? That 's sometimes called neutral boundary .
+__label__33 Let 's bother neutral boundary .
+__label__34 But beginning completely different joke deflection setting boundary relationship .
+__label__35 That 's right . Right . Definitely interesting . So I guess think something , drop email .
+__label__36 So , uh , acknowledged I tell joke future .
+__label__37 Obviously , I steal it . Um , talking horizontal beam , today I remember put card .
+__label__38 Yeah . Uh , I remember bring question .
+__label__39 So equation shear stress beam .
+__label__40 Now , first first equation radial shear stress cylindrical number , thought twisted .
+__label__41 This shear stress information . Being said yes .
+__label__42 Um , second moment inertia , doubt .
+__label__43 This J polar modulus . That 's what .
+__label__44 Fortunately , AI moment inertia , ask couple question spectacular square cross-section .
+__label__45 Uh . What 's BSkyB ? We . I remember that .
+__label__46 And I would like say triangle . I 'm sure should . We check , uh , four divided C4 radius .
+__label__47 We 'll see . In language , four divided four circular cross-section , moment inertia circular cross-section .
+__label__48 Compare contrast polar modulus , spicy fourth divided two .
+__label__49 Polar modulus spicy fourth half fourth , moment inertia quarter Pisces fourth .
+__label__50 Okay . Uh , general , uh , uh , parallel axis theorem .
+__label__51 What 's one for ? Uh , divided three pi .
+__label__52 That is , centroid semicircular section circle .
+__label__53 So a. Circle that .
+__label__54 Should really be . See , everybody . Why u ?
+__label__55 The central u radius divided three point .
+__label__56 So getting point nearly completed entire map equation .
+__label__57 You couple going on . This one here , uh , deflection beam .
+__label__58 We week next . Uh , one theory theory .
+__label__59 And buckling , pretty much left week well .
+__label__60 So I want share beam divided it . Uh , slightly on , uh , I say convoluted , involved , uh ,
+__label__61 compute horizontal shear section beam compared normal stress flexural stress , term .
+__label__62 And Q another geometric property involves work . Right .
+__label__63 Uh , day , Wednesday , I computed the .
+__label__64 Well , geometric property u , uh , moment inertia first moment various .
+__label__65 Uh , I said computing shear stress .
+__label__66 At various section IB , I chose three section , small small , course centroid neutral axis section .
+__label__67 There shear stress end beam about . And there 's nothing slide it .
+__label__68 Um , shear stress M requires compute first moment area point interest .
+__label__69 So need compute first mode area particular section ,
+__label__70 um , uh , know , shearing force , uh , point interest .
+__label__71 So would need constructed Yorkshire Force diagram .
+__label__72 You easily plug your , uh , Q value recognize particularly transition , uh , fiber or ,
+__label__73 know , interfacial fiber , called , interface top bottom .
+__label__74 You two different thickness . In case , thickness that 's 100mm .
+__label__75 And thickness ten millimeter . And millimeter ten millimeter .
+__label__76 So need two different thickness therefore two different value shear stress .
+__label__77 What mean shear stress uh really jump two value interface .
+__label__78 It 's actually called jump discontinuity , uncommon kind of ,
+__label__79 uh , uh , mechanic involves solid fluid continuum mechanic .
+__label__80 Uh , example I talked discontinuity density viscosity interface glass water ,
+__label__81 instance , affect dynamic dynamic , actually hydrostatic actually of , uh , surface a .
+__label__82 Uh , one thing I said I going today wa .
+__label__83 That , know , shear stress point zero , E .
+__label__84 Above . Point em .
+__label__85 There 's beam , there 's there 's beam . There 's shear .
+__label__86 For shear happen , need material slide another surface slide another .
+__label__87 So that 's horizontal sliding various section . Um .
+__label__88 Before I neutralizes shear stress . This struck me , especially mechanical engineering student .
+__label__89 Uh , certainly may experienced MEP two enemy V2 something , nevertheless , probably experiment .
+__label__90 Do still link experiment ? Oh , said to .
+__label__91 Right . Uh , 3D print link pretty much break right now , obviously ,
+__label__92 condition breaking mechanical link static , right .
+__label__93 Because I imagine there 's dynamic stuff going on , rotating machinery whatever , lead link speed break .
+__label__94 So there 's doubt dynamic involved , fracture involved mechanic material ,
+__label__95 mechanic material need static load static equilibrium .
+__label__96 Okay . But nevertheless , pay close attention failed link looked like ?
+__label__97 What visual observation could make 3D printed link .
+__label__98 Can someone share rest class ? What snapped broken failed link look like ?
+__label__99 Yes please . I u okay , anything else could see ?
+__label__100 Yes . Discoloration . Discoloration . That 's interesting .
+__label__101 Discoloration ? Like what ? Why happen , though ? It 's plastic scratching .
+__label__102 Uh , plastic stretch . So pigment probably color . What else ?
+__label__103 Now used conduct experiment . What 's the . Is a , uh , carousel something on , crane ?
+__label__104 Right . You 're still crane ? Because that 's I I talked person 11 year ago .
+__label__105 Yeah , 11 10 year ago , I think . Anyway , matter .
+__label__106 So snap link , one thing notice failed link show multitude layer .
+__label__107 The kind fan out . Now , that 's course , quality 3D printing point time not , know , really good 3D printing .
+__label__108 The layer deposited really adhere perfectly well .
+__label__109 But failure , actually shift various layer .
+__label__110 So horizontal sliding sort occur , vertically horizontal complexity loading ,
+__label__111 shearing failure need horizontal sliding , reason call horizontal shift beam .
+__label__112 Um , coming back point , need compute shear stress neutral axis .
+__label__113 So any . Still I-beam .
+__label__114 And display here . That 's better .
+__label__115 So . This fifth .
+__label__116 Okay . Um . The formula still obviously remains same .
+__label__117 The shearing stress remains same . 9.67 kilonewtons .
+__label__118 What I class ? I multiplication right third .
+__label__119 Um , okay . The moment inertia adult section .
+__label__120 Um , excuse me , 6.413 ten six . Um , also let move fourth .
+__label__121 I think wa . I think going mean never before .
+__label__122 Uh , but , know , still need compute q p q central section would be .
+__label__123 So possibly spot centroid piece 20 .
+__label__124 So 20 time ten time 40 .
+__label__125 That 's area cross section . So still .
+__label__126 Is , uh , that 's 40 45 .
+__label__127 We 've done before . So 45mm centroid top section .
+__label__128 So plus 45mm centroid top section area 100 time ten .
+__label__129 Divided thickness . Now , case central section .
+__label__130 What thickness ten millimeter .
+__label__131 There one thickness central I think I called wet .
+__label__132 So that 's ten millimeter . So I bring calculator today .
+__label__133 This something here . What shear stress I think relaxes .
+__label__134 You plug number . And value Newton per square millimeter mega pascal .
+__label__135 And number . What ?
+__label__136 Is for ?
+__label__137 97.99 microsecond . I 'll take number now , sanity check respect value , seems , right .
+__label__138 So let 's put 7.99 Mega Pascal , originally Newton per square millimeter ,
+__label__139 100 per square millimeter one mega plus one .
+__label__140 So number correct . The stress distribution .
+__label__141 Yeah , 7.99 .
+__label__142 It 's maximum stress level . And complete stress distribution .
+__label__143 For lower half mean . Considering symmetry , able recreate shape lower half beam .
+__label__144 36.750 .6785 zero .
+__label__145 Now section curved ? Why here ?
+__label__146 You know , I normal stress thing , stress linear equation problem , guy .
+__label__147 Because I try set relationship respect linear relationship ?
+__label__148 When Q A 's B 's thrown mix here ,
+__label__149 bound power law way Y geometric property feature .
+__label__150 Okay . Uh , I 'd like side plot , know .
+__label__151 So problem 's kind taken care of . You symmetric distribution shear stress , uh , phallic whatever reason .
+__label__152 But symmetric distribution shear stress . Um , maximum neutral axis , zero top bottom fiber jump transition , uh ,
+__label__153 jump condition , jump discontinuity , whatever may want call various interface .
+__label__154 So multiple interface beam , right , multiple place larger thickness smaller thickness .
+__label__155 You would see jump discontinuity shear stress location .
+__label__156 Yes . Uh , thought experiment . Not much thought experiment .
+__label__157 Um , let 's say rectangular cross-section back right ,
+__label__158 simple equation shear stress neutral axis rectangular cross-section .
+__label__159 Rectangular rectangle . So sex .
+__label__160 It 's neutral axis . Let 's say base rectangle thickness small .
+__label__161 B uh , height rectangle h .
+__label__162 So half high could one half x .
+__label__163 And uh , centroid location section would quadrant .
+__label__164 Right . So want compute shear stress v time divided I time .
+__label__165 Now let 's say know value v shear force diagram . You know know this .
+__label__166 So that 's care about . So p v q I p okay .
+__label__167 So what . And choose either top bottom section rectangular cross-section .
+__label__168 So that 's V. Um uh x x divided four half x semi right .
+__label__169 The first centroid one half x divided four time area cross-section v x divided
+__label__170 two divided moment inertia EX2 divided 12 entire cross-section time thickness ,
+__label__171 b okay , give v time edge .
+__label__172 Now squared divided eight divided b squared x cubed divided 12 .
+__label__173 Now v cancel x square cancel out .
+__label__174 Leaving u cow equal 12 divided eight three divided three time x .
+__label__175 Further reduction would show slope three part .
+__label__176 Other three half divided area cross-section , find area cross-section .
+__label__177 Very simple map show rectangular cross-section ,
+__label__178 easily say neutral axis three half divided eight .
+__label__179 It 's equation sheet , fair game . Okay .
+__label__180 We worry about . We time divided eight shear stress neutral axis .
+__label__181 That 's over . Um . And exercise shape circular cross-sections nice one try for .
+__label__182 Okay . Any question point respect shear stress beam .
+__label__183 Okay . Um , take two minute break . Check your . Actually email .
+__label__184 Not gon na get work . Nuh uh . Check email 20 .
+__label__185 Uh , respond Google form wish to .
+__label__186 I 'd like see still like class problem session , maybe cancel class rest semester .
+__label__187 I 'm joking . We 're canceling . Some . Welcome .
+__label__188 And . So .
+__label__189 For . Six .
+__label__190 Oh . Party .
+__label__191 We 've settled problem minute . That 's .
+__label__192 That 's point . Huh ?
+__label__193 Huh ? Orchestra .
+__label__194 Okay , is , uh , something I said .
+__label__195 And made class . If chance . Do it ?
+__label__196 No problem . It 's still canvas . You print later . So later .
+__label__197 Um , beam shown composed two , uh , one six inch two .
+__label__198 Yeah , two , one three . And hard maple board glued together shown .
+__label__199 So that 's beam cross-section . All right . Uh , beam loaded shown figure eight .
+__label__200 This straight textbook . This 7.797.79 star textbook , one back chapter problem .
+__label__201 Uh , need two thing here . Computer , show welcome .
+__label__202 Report magnitude location maximum flexural tensile stress .
+__label__203 So that 's one second I make small correction .
+__label__204 Yeah . You show work report magnitude location maximum horizontal versus max horizontal , horizontal axis .
+__label__205 That 's . So , uh , I said email is , uh , final exam caliber problem .
+__label__206 So basically , if , uh , I would suggested problem final exam unbeatens ,
+__label__207 is , would like shear force bending moment diagram and ,
+__label__208 uh , compute , least , normal stress B maximum level stress maximum shear stress .
+__label__209 But I 'd like ability thing like 16 minute alive .
+__label__210 Right ? Um , pretty involved shear force bending moment diagram , actually ,
+__label__211 even though two load , one uniformly distributed load applied load .
+__label__212 Now , kind beam see called beam overhead .
+__label__213 Okay . So portion here . As modern use beam , overhead diving board .
+__label__214 Uh , two . Very . You overhang , use dive board .
+__label__215 Okay , kind beam overhead , interesting cross-section , thank star cross-section soul not .
+__label__216 So . Why that ?
+__label__217 I thank son because , uh , one would require , possibly require application parallel axis theorem piece .
+__label__218 This one acquired parallel . Access one acquired parallel , I suspect .
+__label__219 Although that 's axis theorem . It 's impossible do , take extra minute like expert know practice .
+__label__220 How parallel axis theorem static prerequisite course ,
+__label__221 mean expected know deal problem cross-section rotated .
+__label__222 Okay , I said I focusing shear force bending moment diagram .
+__label__223 And that 's remains case . I show eventually , like next day so , I share solution via canvas .
+__label__224 So see it . Um .
+__label__225 Uh , also , one thing I 'd like say way I structured two page probably see final exam .
+__label__226 You 'll 4 5 six problem 1 2 page space allotted .
+__label__227 So one page two page printed back back off , uh , double sided book .
+__label__228 And pretty much space have , uh ,
+__label__229 communicate preamble problem space got allocated particular problem .
+__label__230 So want aware that 's reason I this . Uh , and , know , training wheel off .
+__label__231 I 'm providing box fill anymore . You able manage real estate that .
+__label__232 Now , coming back solution , what 's given information ? We beam span , cross-sectional geometry loading .
+__label__233 Loading . What need find ? Sigma Max Max D location .
+__label__234 Equations relevant . Flexner formula . She been .
+__label__235 Um . Uh , this , uh , moment inertia rectangular cross-section ?
+__label__236 Uh , add general equation fast movement area . So problem involves concept concept far .
+__label__237 Shear force bending moment diagram . Flexible model stress horizontal distance check .
+__label__238 Uh , assumption , standard assumption mechanic material supporting theory .
+__label__239 That 's being . The diagram pretty simple draw .
+__label__240 Uh , go 1,161 pound , go additional , uh , five time , force 2,000 pound -840 .
+__label__241 That remains constant . Uh , particular portion , go 1040 ,
+__label__242 take level 200 pound drop zero again , give shear force that .
+__label__243 Okay . Now , interesting point crossover .
+__label__244 We need find x four minus x , portion uniformly distributed load axon four foot , four foot .
+__label__245 To find point crossover , need apply , uh , find loss find height divided base triangle ,
+__label__246 ratio equal height divided base book .
+__label__247 Therefore , find x 1.68ft four minus x 2.3 .
+__label__248 Okay . Why need that ? You need accurately construct bending moment diagram .
+__label__249 That 's read that . So next I construct bending moment diagram , again , know ,
+__label__250 left right compute area shear force piece start adding them .
+__label__251 Recognizing linear decline shearing force would mean quadratic bending moment .
+__label__252 So two circle around essentially mean quadratic cost .
+__label__253 So I construct shear force bending moment diagram . And I actually just .
+__label__254 Think 1345.6 probably maximum bending moment .
+__label__255 I could wrong . You definitely know . Uh , yeah .
+__label__256 No is , be . Okay , that 's that 's construct force bending moment diagram .
+__label__257 Try own . Once I publish PDF canvas , uh , under , uh , module three , uh , able work own .
+__label__258 Uh , compare solution . Uh , that 's I have . So I shear force bending moment .
+__label__259 So would I maximum normal stress ?
+__label__260 Along beam ? Along the . What location ?
+__label__261 Maximum . Novel stress . Flexible mouth muscle .
+__label__262 What 's normal stress equation ? My divided eight . So easy tell where .
+__label__263 Uh , cross section beam , would maximum . But bottom top fiber particular cross section ,
+__label__264 along beam along length beam , would maximum level space principle ?
+__label__265 What capital see . To 232 222 that 's location maximum bending moment .
+__label__266 So whatever maximizes value maximum allowable stress .
+__label__267 It 's simple math right . So maximum normal stress .
+__label__268 Is , although I put minus here . Recognize since symmetric cross-section ,
+__label__269 minus plus plus minus maximum model stress top bottom five positive .
+__label__270 So although flexor formula negative side .
+__label__271 Given particular cross-section say minus plus plus minus either what 's .
+__label__272 Maximum bending moment . Maximum value Y divided the , uh , moment inertia cross-section .
+__label__273 In case , maximum bending moment apparently 1,345.6 .
+__label__274 Five foot , uh , since everything else inch .
+__label__275 I introduce multiplicative factor 12 , bench .
+__label__276 Uh . And not ? So particular cross-section .
+__label__277 What 's y. Max ? If that 's neutral axis .
+__label__278 And Alexis go right center left right lane car section .
+__label__279 What 's Max . Three inch .
+__label__280 Three inch well . Three inch , three inch .
+__label__281 That 's . Just divided movement inertia .
+__label__282 How compute moment inertia thing ? Yes .
+__label__283 Waiting ship surface .
+__label__284 Okay , that 's choice moment inertia .
+__label__285 Excellent . So , I repeat ,
+__label__286 take moment inertia two set piece add whilst moment inertia either left right increase .
+__label__287 Right ? Absolutely . So case , moment inertia .
+__label__288 One set time two . So two time 112 one inch x six .
+__label__289 So six q must . Two time 112 .
+__label__290 Uh , still one inch wide . Height is .
+__label__291 Thank you . So this . So section .
+__label__292 Well , this . So sanction okay .
+__label__293 It say . So I math here , I knew please confirm friend boneheaded insisted button calculator .
+__label__294 Sigma Max plus minus minus plus . I really want put 1.196 KCI top bottom five US x equal 2.232 .
+__label__295 So crux problem lie computing moment inertia accurately .
+__label__296 Actually , need room allotted problem , that 's okay .
+__label__297 Um . Okay . The next thing I horizontal shear .
+__label__298 Maximum horizontal surface . It 's bit mess .
+__label__299 Maximum horizontal shear . So .
+__label__300 Max x Gonzalez horizontal shear .
+__label__301 Where neutral axis top bottom fiber ?
+__label__302 Horizontal maximum horizontal shear neutralizes shear stress .
+__label__303 Horizontal share beam maximum neutral axis . Normal stress .
+__label__304 If I 'm able complete job , find minimum neutral axis .
+__label__305 Maximum stop maximum horizontal here , uh , neutral axis , uh , location max shear force .
+__label__306 So location maximum shear force actually left , left support 1,160 pound .
+__label__307 Bounce 1,160 pound maximum shearing force floor .
+__label__308 If maximum shear kind make sense . The support maybe thing tear off , uh , shear .
+__label__309 So Max . Is max q divided IP .
+__label__310 Crazy . Emacs 1,160 pound .
+__label__311 This one . They written down .
+__label__312 You write section , want find Q outer section , one outer section , multiply two ,
+__label__313 two outer section symmetric q one inner central section multiply two .
+__label__314 That 's what 's going on . So would be .
+__label__315 175 time 130 1.5 .
+__label__316 That 's area section time two plus 1.51.6 time two divided moment inertia , see page .
+__label__317 But I number equal two time one time six cubed .
+__label__318 Uh , two divided 21 time .
+__label__319 What 's thickness interest neutral axis ?
+__label__320 Four inch . So I , I 've done math right here , 0.145 file .
+__label__321 At left . Supports reactor .
+__label__322 So I think q-value all . I prompt you , go on .
+__label__323 Yes I will . People like . This .
+__label__324 No , the . Oh goodness . But know right .
+__label__325 Typically one right . So one also work the .
+__label__326 So would change to . If three one half that .
+__label__327 072 . Yes , sir . I think so .
+__label__328 No no . What I talking about ? Yeah . Zero 75 1.1 45I think so .
+__label__329 So okay . Thank catching update . This also . Oh , that 's that 's good stuff .
+__label__330 Okay . So . So problem I talking about , took 18 minute ?
+__label__331 Plus , I kind know go this . So problem complexity , get 16 minute really good shape ,
+__label__332 16 minute , that 's 80 % time problem faster .
+__label__333 So although I much today , uh , I would like review example I left .
+__label__334 Uh , already collected exam , please . Stop recording here .
+__label__335 Uh .

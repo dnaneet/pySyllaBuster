@@ -1,0 +1,1341 @@
+1
+00:00:02,330 --> 00:00:05,910
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Okay, so let's get started with Friday of week nine.
+
+2
+00:00:08,820 --> 00:00:13,800
+Um. By the way.
+
+3
+00:00:14,280 --> 00:00:17,820
+Does this pen belong to someone in class? Someone left my office.
+
+4
+00:00:19,830 --> 00:00:22,950
+Not here at least. Maybe. Uh, okay.
+
+5
+00:00:24,270 --> 00:00:30,140
+So, uh, when we take the break today, after 20 minutes, uh, please check your email.
+
+6
+00:00:30,150 --> 00:00:36,000
+There will be two reflection, uh, things which we were doing about just just before the break happened.
+
+7
+00:00:36,690 --> 00:00:39,569
+Uh, couple of, uh, multiple choice questions.
+
+8
+00:00:39,570 --> 00:00:46,680
+I just want to keep tracking what's what continues to be useful for you, particularly with the in-class, uh, sessions that we have.
+
+9
+00:00:47,310 --> 00:00:53,820
+Uh, I guess you haven't seen I haven't shared the results of previous results with you,
+
+10
+00:00:54,300 --> 00:00:59,820
+but it would seem that in class, problems appear to be the most helpful or useful to students as well.
+
+11
+00:01:00,600 --> 00:01:05,759
+Uh, your reflection on that. I don't know if, um, uh, that has changed.
+
+12
+00:01:05,760 --> 00:01:09,680
+And I'd like to know. Um. Yeah, I tried to write a joke.
+
+13
+00:01:09,690 --> 00:01:14,760
+Okay. It didn't work out. Uh, so I'd like you to help me with that. I told a joke in week five, which was.
+
+14
+00:01:15,030 --> 00:01:19,810
+Why did the what? What did the material say to the brittle material?
+
+15
+00:01:19,940 --> 00:01:24,839
+You remember work number. And I tried to write another joke with neutral axis and normal stress.
+
+16
+00:01:24,840 --> 00:01:28,980
+Eight. Well, it just joke writing business is difficult. Okay, so you helped me out.
+
+17
+00:01:29,520 --> 00:01:33,390
+Uh, it's terrible right now. It's too many words. I don't know what to do with it.
+
+18
+00:01:33,480 --> 00:01:40,950
+So you help me out. All right. So why did the IBM partner rather, why did the IBM break up with its partner?
+
+19
+00:01:42,950 --> 00:01:49,710
+Now the. Because the partner crossed the neutralizes and there was too much normal stress.
+
+20
+00:01:50,300 --> 00:01:55,290
+Doesn't quite work like a joke. I need you to fix it. For the first two minutes.
+
+21
+00:01:55,740 --> 00:02:00,180
+So the question is, why did the IBM break up with its partner?
+
+22
+00:02:00,510 --> 00:02:03,840
+Because the partner crossed the neutral axis and there was too much normal stress.
+
+23
+00:02:04,020 --> 00:02:07,889
+Basically, there was too much stress in the relationship. But, you know, it's not all kinds of stress.
+
+24
+00:02:07,890 --> 00:02:11,850
+It's only normal stress that you see when you crossed a neutral axis.
+
+25
+00:02:12,280 --> 00:02:19,110
+How do I fix this job so that I can tell it to the next section of mechanics and materials, and far more articulate fashion?
+
+26
+00:02:25,220 --> 00:02:27,420
+No ideas yet. So.
+
+27
+00:02:29,700 --> 00:02:35,819
+It's supposed to be memorable so that when you think about your normal stress and beams, you know that the neutral axis has no stress.
+
+28
+00:02:35,820 --> 00:02:39,180
+Normal stress. Okay. It's.
+
+29
+00:02:42,130 --> 00:02:46,090
+So? Any ideas?
+
+30
+00:02:47,240 --> 00:02:51,220
+Uh, so brainstorming here. It's okay if it's not perfect.
+
+31
+00:02:51,270 --> 00:02:55,920
+Yes. If you said something about boundaries. Boundaries? Okay.
+
+32
+00:02:55,930 --> 00:02:59,980
+Where are you going with that? That's sometimes called the neutral boundary.
+
+33
+00:03:00,310 --> 00:03:01,750
+Let's not bother neutral boundaries.
+
+34
+00:03:02,980 --> 00:03:08,800
+But that has the beginnings of a completely different joke on being deflections and setting boundaries in relationships.
+
+35
+00:03:10,250 --> 00:03:16,400
+That's right. Right. Definitely interesting. So I guess if you think of something, drop me an email.
+
+36
+00:03:17,440 --> 00:03:23,979
+So, uh, you you will be acknowledged if I tell the joke in the future.
+
+37
+00:03:23,980 --> 00:03:31,930
+Obviously, I won't steal it. Um, so we were talking about horizontals here and beams, and today I remember to put this on the card.
+
+38
+00:03:34,290 --> 00:03:37,330
+Yeah. Uh, I don't remember to bring my question.
+
+39
+00:03:38,560 --> 00:03:41,940
+So the equation for shear stress and beams.
+
+40
+00:03:41,950 --> 00:03:49,900
+Now, this the first the first equation here is radial shear stress in cylindrical numbers, which are being thought or twisted.
+
+41
+00:03:50,260 --> 00:04:02,340
+This is the shear stress and these information. Being said yes.
+
+42
+00:04:02,490 --> 00:04:08,620
+Um, and then here you have a second moment of inertia, no doubt.
+
+43
+00:04:08,620 --> 00:04:16,870
+This is J is polar modulus. That's what.
+
+44
+00:04:16,870 --> 00:04:23,650
+Fortunately, while AI is the moment of inertia, we ask you a couple of questions for a spectacular square cross-section.
+
+45
+00:04:24,070 --> 00:04:28,360
+Uh. What's BSkyB? We. I don't remember that.
+
+46
+00:04:28,360 --> 00:04:37,659
+And I would like to say it's a triangle. I'm not sure it should. We should check, uh, by our four divided by by C4 radius.
+
+47
+00:04:37,660 --> 00:04:46,060
+We'll see. In my language, four divided by four is for a circular cross-section, the moment of inertia of a circular cross-section.
+
+48
+00:04:46,360 --> 00:04:51,460
+Compare and contrast that with the polar modulus, which is spicy to the fourth divided by two.
+
+49
+00:04:51,910 --> 00:04:58,330
+Polar modulus of spicy to the fourth half by the fourth, while moment of inertia is quarter Pisces to the fourth.
+
+50
+00:04:59,430 --> 00:05:03,690
+Okay. Uh, and this is the general, uh, uh, parallel axis theorem.
+
+51
+00:05:04,920 --> 00:05:08,310
+What's this one for? Uh, divided by three pi.
+
+52
+00:05:13,660 --> 00:05:18,610
+That is, the centroid of a semicircular section of a circle.
+
+53
+00:05:19,090 --> 00:05:23,680
+So if you have a. Circle that.
+
+54
+00:05:26,150 --> 00:05:29,150
+Should really be. See, everybody. Why all of us?
+
+55
+00:05:30,260 --> 00:05:34,550
+The central for us are being radius divided by three point.
+
+56
+00:05:35,270 --> 00:05:39,170
+So we are getting to a point where nearly completed the entire map of equations.
+
+57
+00:05:39,500 --> 00:05:43,480
+You have a couple of more going on. This one over here, uh, is deflections of beams.
+
+58
+00:05:43,500 --> 00:05:47,960
+We do that the week after next. Uh, this is one more theory of theory.
+
+59
+00:05:48,980 --> 00:05:53,210
+And this is buckling, which is pretty much what we have left after this week as well.
+
+60
+00:05:54,020 --> 00:06:01,560
+So I just want to share beams with you divided by it. Uh, slightly more on, uh, I won't say convoluted, but involved, uh,
+
+61
+00:06:01,580 --> 00:06:09,500
+to compute the horizontal shear at any section of the beam as compared to the normal stress or the flexural stress, just because it has more terms.
+
+62
+00:06:09,680 --> 00:06:12,950
+And Q is another geometric property that involves some work. Right.
+
+63
+00:06:13,280 --> 00:06:18,050
+Uh, the other day, Wednesday, I computed the.
+
+64
+00:06:20,930 --> 00:06:24,950
+Well, we did some geometric properties for us, uh, the moment of inertia and the first moment various.
+
+65
+00:06:25,460 --> 00:06:31,670
+Uh, and then I said about computing the shear stress.
+
+66
+00:06:32,830 --> 00:06:41,620
+At various sections of an IB, so I chose three sections, small and small, and then of course the centroid for the neutral axis section.
+
+67
+00:06:41,890 --> 00:06:47,560
+There is no shear stress at end because there is no beam about. And so there's nothing to slide over it.
+
+68
+00:06:48,130 --> 00:06:55,690
+Um, shear stress at M requires that you compute the first moment of area above the point of interest.
+
+69
+00:06:55,690 --> 00:06:58,599
+So you need to compute the first mode of area of that particular section,
+
+70
+00:06:58,600 --> 00:07:04,390
+which um, uh, and if you know, the shearing force, uh, at the point of interest.
+
+71
+00:07:04,780 --> 00:07:07,600
+So for that you would need to have constructed Yorkshire Force diagram.
+
+72
+00:07:09,550 --> 00:07:17,560
+You can easily plug your, uh, Q value in there and recognize that particularly for a transition, uh, fiber or,
+
+73
+00:07:17,560 --> 00:07:21,760
+you know, an interfacial fiber, as it's called, because it's an interface between the top and the bottom.
+
+74
+00:07:22,090 --> 00:07:26,320
+You have two different thicknesses. In this case, you have a thickness that's 100mm.
+
+75
+00:07:26,590 --> 00:07:31,840
+And the thickness that is ten millimeters. And this is all millimeters ten millimeters.
+
+76
+00:07:32,230 --> 00:07:36,490
+So you need to have two different thicknesses and therefore two different values of shear stress.
+
+77
+00:07:36,670 --> 00:07:41,860
+What that means is that the shear stress uh really jumps between two values at an interface.
+
+78
+00:07:42,130 --> 00:07:47,770
+It's actually called a jump discontinuity, which is not uncommon at all in any kind of,
+
+79
+00:07:47,770 --> 00:07:52,480
+uh, uh, mechanics that involves solids or fluids of continuum mechanics.
+
+80
+00:07:53,110 --> 00:08:01,929
+Uh, the other example I talked about was how there is a discontinuity in densities and viscosities and such that the interface of glass of water,
+
+81
+00:08:01,930 --> 00:08:09,520
+for instance, that affects the dynamics or not the dynamics, actually the hydrostatic actually of, uh, surface of a.
+
+82
+00:08:11,620 --> 00:08:15,670
+Uh, the one thing I said we hadn't I was going to do today was.
+
+83
+00:08:17,920 --> 00:08:25,460
+That, you know, that the shear stress at point and the zero, because there is no been no E.
+
+84
+00:08:28,230 --> 00:08:31,330
+Above. Point em.
+
+85
+00:08:32,440 --> 00:08:34,480
+There's no beam, there's there's no beam. There's no shear.
+
+86
+00:08:35,140 --> 00:08:40,450
+For shear to happen, you need to have material that slides over another surface that slides over another.
+
+87
+00:08:40,780 --> 00:08:44,110
+So that's a horizontal sliding of various sections. Um.
+
+88
+00:08:46,390 --> 00:08:53,020
+Before I do the neutralizes shear stress. This this struck me, especially those of you who are mechanical engineering students.
+
+89
+00:08:53,410 --> 00:09:01,420
+Uh, you have certainly you may have experienced MEP two by now or your enemy V2 or something, but nevertheless, you probably did an experiment.
+
+90
+00:09:03,190 --> 00:09:06,400
+Do you still do a link experiment? Oh, you said to.
+
+91
+00:09:06,580 --> 00:09:13,030
+Right. Uh, you 3D print a link and then you pretty much break it right now, obviously,
+
+92
+00:09:13,030 --> 00:09:19,389
+the conditions of breaking that that mechanical link are not static, right.
+
+93
+00:09:19,390 --> 00:09:26,050
+Because I imagine that there's some dynamic stuff going on, some rotating machinery or whatever, that leads to some link speeds to break.
+
+94
+00:09:26,380 --> 00:09:31,570
+So there's no doubt there is a dynamics involved, a fracture involved that is not mechanics of materials,
+
+95
+00:09:31,570 --> 00:09:34,900
+because mechanics of materials need static loads and static equilibrium.
+
+96
+00:09:35,020 --> 00:09:41,620
+Okay. But nevertheless, did you pay close attention to what a failed link looked like?
+
+97
+00:09:41,830 --> 00:09:46,900
+What are the visual observations you could make about this was a 3D printed link.
+
+98
+00:09:48,160 --> 00:09:53,379
+Can someone share that with the rest of the class? What did they snapped or broken a failed link look like?
+
+99
+00:09:53,380 --> 00:09:59,020
+Yes please. I was us okay, there was some anything else that you could see?
+
+100
+00:10:00,010 --> 00:10:03,249
+Yes. Discoloration. Discoloration. That's interesting.
+
+101
+00:10:03,250 --> 00:10:07,370
+Discoloration? Like what? Why did that happen, though? It's a plastic scratching.
+
+102
+00:10:07,690 --> 00:10:10,900
+Uh, plastic stretches. So the pigment probably does colors. What else?
+
+103
+00:10:15,130 --> 00:10:22,690
+Now when we used to conduct this experiment. What's the. Is that a, uh, a carousel or something that you do this on, or is that a crane?
+
+104
+00:10:23,320 --> 00:10:28,570
+Right. You're still doing it on the crane? Because that's what I did when I talked with this person 11 years ago.
+
+105
+00:10:29,110 --> 00:10:32,080
+Yeah, about 11 or 10 years ago, I think. Anyway, it doesn't matter.
+
+106
+00:10:32,290 --> 00:10:40,840
+So when we snap that link, one of the things that you notice is that the failed link shows a multitude of layers.
+
+107
+00:10:42,400 --> 00:10:50,140
+The kind of fan out. Now, that's of course, because of the quality of 3D printing at that point in time was not, you know, really good 3D printing.
+
+108
+00:10:50,390 --> 00:10:54,100
+The layers that were deposited didn't really adhere to each other perfectly well.
+
+109
+00:10:54,370 --> 00:10:58,510
+But that failure, there is actually a shift in the various layers.
+
+110
+00:10:59,440 --> 00:11:05,410
+So there is a horizontal sliding of some sort that does occur, not vertically horizontal because of the complexity in loading,
+
+111
+00:11:05,560 --> 00:11:11,050
+but for shearing failure you need to have horizontal sliding, which is the reason you call this horizontal shift in beams.
+
+112
+00:11:11,590 --> 00:11:16,510
+Um, so now coming back to the point, we need to compute the shear stress at the neutral axis.
+
+113
+00:11:18,130 --> 00:11:24,160
+So any. Still have the same I-beam.
+
+114
+00:11:24,580 --> 00:11:28,450
+And we display that here. That's better.
+
+115
+00:11:30,690 --> 00:11:34,600
+So. This is my fifth.
+
+116
+00:11:44,650 --> 00:11:54,050
+Okay. Um. The formula still obviously remains the same.
+
+117
+00:11:54,320 --> 00:11:58,310
+The shearing stress remains the same. 9.67 kilonewtons.
+
+118
+00:12:02,770 --> 00:12:07,100
+What did I do in the class? I did the multiplication right to the third.
+
+119
+00:12:08,550 --> 00:12:12,960
+Um, okay. The moment of inertia is for the adult section.
+
+120
+00:12:13,980 --> 00:12:20,980
+Um, excuse me, which is 6.413 ten to the six. Um, also let me move to the fourth.
+
+121
+00:12:21,000 --> 00:12:29,750
+I think it was. I think this was going to mean never before.
+
+122
+00:12:31,340 --> 00:12:39,110
+Uh, but, you know, we still need to compute q and p q for the central section would be.
+
+123
+00:12:41,390 --> 00:12:46,760
+So it'd be the possibly the spot for the centroid of that piece is a 20.
+
+124
+00:12:47,450 --> 00:12:52,459
+So that is 20 times ten times 40.
+
+125
+00:12:52,460 --> 00:13:00,290
+That's the area of cross section. So this and this and still.
+
+126
+00:13:03,210 --> 00:13:06,510
+Is, uh, that's 40 and 45.
+
+127
+00:13:06,510 --> 00:13:10,140
+We've done this before. So 45mm to the centroid of the top section.
+
+128
+00:13:10,680 --> 00:13:19,170
+So plus 45mm to the centroid of the top section area there is 100 times ten.
+
+129
+00:13:22,270 --> 00:13:26,530
+Divided by the thickness. Now, in this case at the central section.
+
+130
+00:13:26,770 --> 00:13:29,979
+What is the thickness ten millimeter.
+
+131
+00:13:29,980 --> 00:13:33,010
+There is only one thickness for the central I think I called it a wet.
+
+132
+00:13:33,190 --> 00:13:37,299
+So that's ten millimeters. So I didn't bring my calculator today.
+
+133
+00:13:37,300 --> 00:13:41,350
+This is something that you can have here. What is the shear stress I think it relaxes.
+
+134
+00:13:42,880 --> 00:13:51,040
+You have to plug in those numbers. And the value will be Newton per square millimeter which is mega pascals.
+
+135
+00:14:21,260 --> 00:14:27,050
+And then with the number. What?
+
+136
+00:14:32,770 --> 00:14:36,230
+Is all this for?
+
+137
+00:14:42,000 --> 00:14:51,430
+97.99 microseconds. I'll take that number for now, because a sanity check with respect to all the other values, it seems, right.
+
+138
+00:14:51,430 --> 00:14:57,700
+So let's put that down to 7.99 Mega Pascal, because originally this is Newton per square millimeter,
+
+139
+00:14:57,850 --> 00:15:00,880
+100 per square millimeter is the same as one mega plus one.
+
+140
+00:15:01,270 --> 00:15:10,560
+So in this numbers correct. The stress distribution.
+
+141
+00:15:13,440 --> 00:15:16,769
+Yeah, it's 7.99.
+
+142
+00:15:16,770 --> 00:15:22,350
+It's the maximum stress level. And if you were to complete this stress distribution.
+
+143
+00:15:24,380 --> 00:15:35,440
+For the lower half of the mean. Considering the symmetry, you should be able to recreate the very same shape in the lower half of your beam.
+
+144
+00:15:36,410 --> 00:15:41,690
+36.750 .6785 and zero.
+
+145
+00:15:41,780 --> 00:15:45,170
+Now why are these sections curved? Why are they not here?
+
+146
+00:15:52,370 --> 00:15:57,439
+You know, when we have I don't have my normal stress thing, but stress was a linear equation for our problems, guys.
+
+147
+00:15:57,440 --> 00:16:02,120
+Because then why do I try to set up a relationship with respect to y linear relationship?
+
+148
+00:16:02,360 --> 00:16:06,320
+When you have Q and A's and B's thrown into the mix over here,
+
+149
+00:16:07,070 --> 00:16:14,120
+you're bound to have a power law just because of the way the Y is in each of those geometric properties features.
+
+150
+00:16:14,210 --> 00:16:20,450
+Okay. Uh, what I'd like you to this is just a side plot, if you will know.
+
+151
+00:16:20,450 --> 00:16:27,319
+So this this this problem's kind of taken care of. You have a symmetric distribution of shear stress, uh, which is very phallic for whatever reason.
+
+152
+00:16:27,320 --> 00:16:36,680
+But it is a symmetric distribution of shear stress. Um, maximum at the neutral axis, zero at the top and bottom fibers and a jump transition, uh,
+
+153
+00:16:36,680 --> 00:16:41,540
+a jump condition, not a jump discontinuity, whatever you may want to call it at various interfaces.
+
+154
+00:16:41,690 --> 00:16:47,330
+So if you have multiple interfaces for the beam, right, we have multiple places where you have a larger thickness and smaller thickness.
+
+155
+00:16:47,510 --> 00:16:51,500
+You would see a jump discontinuity and shear stress in all those locations.
+
+156
+00:16:51,800 --> 00:16:55,790
+Yes. Uh, now just a thought experiment. Not so much a thought experiment.
+
+157
+00:16:56,390 --> 00:17:01,700
+Um, let's say that we have a rectangular cross-section back to the right,
+
+158
+00:17:01,700 --> 00:17:08,060
+a simple equation for the shear stress at the neutral axis for a rectangular cross-section.
+
+159
+00:17:08,240 --> 00:17:13,130
+Rectangular rectangles. So it's not about sex.
+
+160
+00:17:14,270 --> 00:17:18,259
+It's a neutral axis. Let's say that the base of the rectangle of the thickness is small.
+
+161
+00:17:18,260 --> 00:17:22,670
+B uh, by the height of the rectangle is h.
+
+162
+00:17:22,940 --> 00:17:25,940
+So half the high could be one half x.
+
+163
+00:17:26,270 --> 00:17:30,020
+And uh, the centroid location of each section would be a quadrant.
+
+164
+00:17:30,800 --> 00:17:37,520
+Right. So now if you want to compute the shear stress it is v times you divided by I times.
+
+165
+00:17:37,910 --> 00:17:42,590
+Now let's say that we know the value of v from the shear force diagram. You don't know what it is but we know this.
+
+166
+00:17:42,770 --> 00:17:50,420
+So that's all we care about. So p is v and q I p okay.
+
+167
+00:17:50,780 --> 00:17:56,120
+So what. And we can choose either the top or the bottom section because it's a rectangular cross-section.
+
+168
+00:17:56,960 --> 00:18:06,410
+So that's V. Um so that is uh x to the x divided by four because this is half x just a semi right.
+
+169
+00:18:06,740 --> 00:18:13,790
+The first centroid is one half of that which is x divided by four times area of cross-section which is v x divided by
+
+170
+00:18:13,790 --> 00:18:23,029
+two divided by the moment of inertia which is EX2 divided by 12 for the entire cross-section times the thickness,
+
+171
+00:18:23,030 --> 00:18:30,970
+which is b okay, which gives me v times we edge.
+
+172
+00:18:31,280 --> 00:18:40,160
+Now we have squared divided by eight divided by b squared x cubed divided by 12.
+
+173
+00:18:40,820 --> 00:18:45,140
+Now the v cancels out and the x square cancels out.
+
+174
+00:18:45,620 --> 00:18:54,050
+Leaving us with cow equals 12 divided by eight three divided by three times x.
+
+175
+00:18:55,940 --> 00:19:01,550
+Further reduction would show that this is for or for not on the slopes on three parts.
+
+176
+00:19:01,580 --> 00:19:09,110
+Other three halves be divided by the area of the cross-section, because we find that just the area of the cross-section.
+
+177
+00:19:10,010 --> 00:19:14,270
+Very simple map what this is just to show that if you have a rectangular cross-section,
+
+178
+00:19:14,510 --> 00:19:19,340
+you can easily just say this is because of the neutral axis is three halves be divided by eight.
+
+179
+00:19:19,610 --> 00:19:23,060
+It's not on the equation sheet, but it's fair game. Okay.
+
+180
+00:19:23,660 --> 00:19:28,340
+We have to worry about. We have time to be divided by eight as the shear stress of the neutral axis.
+
+181
+00:19:28,340 --> 00:19:36,980
+That's over. Um. And you can do this exercise for some other shapes or circular cross-sections and have a nice one to try that out for.
+
+182
+00:19:39,230 --> 00:19:44,720
+Okay. Any questions at this point with respect to shear stress as some beams.
+
+183
+00:19:54,910 --> 00:19:58,660
+Okay. Um, we will take a two minute break. Check your. Actually the emails.
+
+184
+00:19:58,670 --> 00:20:03,370
+Not gonna get any work. Nuh uh. Check your email in about 20s.
+
+185
+00:20:03,430 --> 00:20:06,130
+Uh, and respond to that Google form if you wish to.
+
+186
+00:20:06,640 --> 00:20:13,480
+I'd just like to see if you still like these in class problem sessions, or maybe just just cancel class for the rest of the semester.
+
+187
+00:20:16,570 --> 00:20:24,020
+I'm joking. We're not canceling. Some. Welcome.
+
+188
+00:20:38,560 --> 00:21:14,660
+And. So.
+
+189
+00:21:17,780 --> 00:21:24,470
+For. Six.
+
+190
+00:21:46,320 --> 00:22:08,320
+Oh. Party.
+
+191
+00:22:35,310 --> 00:23:00,180
+We've settled on this problem in just a minute. That's.
+
+192
+00:23:21,830 --> 00:23:25,950
+That's the point. Huh?
+
+193
+00:23:33,140 --> 00:23:39,010
+Huh? Orchestra.
+
+194
+00:23:45,160 --> 00:23:48,670
+Okay, so this is, uh, something I said.
+
+195
+00:23:49,180 --> 00:23:53,100
+And you made about this in class. If you had the chance. Do you have it?
+
+196
+00:23:53,130 --> 00:23:55,840
+No problem. It's still on canvas. You can print it later. So later.
+
+197
+00:23:56,380 --> 00:24:03,430
+Um, so what we have is that the beam shown is composed of two, uh, one by six inch and two.
+
+198
+00:24:03,430 --> 00:24:08,500
+Yeah, two, one by three. And the hard maple boards that are glued together as shown.
+
+199
+00:24:09,470 --> 00:24:14,290
+So that's the beam cross-section. All right. Uh, and the beam is loaded as shown in figure eight.
+
+200
+00:24:14,380 --> 00:24:21,460
+This is straight out of your textbook. This is 7.797.79 star in your textbook, one of the back of the chapter problems.
+
+201
+00:24:22,210 --> 00:24:26,380
+Uh, so you need to do two things here. Computer, show your welcome.
+
+202
+00:24:26,380 --> 00:24:30,340
+Report the magnitude and location of the maximum flexural tensile stress.
+
+203
+00:24:30,970 --> 00:24:35,500
+So that's one the second I have to make a very small correction.
+
+204
+00:24:35,500 --> 00:24:44,559
+Yeah. You show your work and report the magnitude and location of the maximum horizontal versus max horizontal, not just horizontal axis.
+
+205
+00:24:44,560 --> 00:24:54,510
+That's. So, uh, I said to my email that this is, uh, a final exam caliber problem.
+
+206
+00:24:55,260 --> 00:25:01,020
+So basically, if, uh, I would have suggested a problem for the final exam for unbeatens,
+
+207
+00:25:01,020 --> 00:25:05,100
+that is, it would be like this where you do a shear force and bending moment diagram and,
+
+208
+00:25:05,280 --> 00:25:12,870
+uh, compute, at the very least, the normal stress and the B maximum level stress or the maximum shear stress.
+
+209
+00:25:13,470 --> 00:25:18,930
+But I'd like you to have the ability to do all of these things in like 16 minutes or to be alive.
+
+210
+00:25:19,650 --> 00:25:25,440
+Right? Um, it's a pretty involved shear force and bending moment diagram, actually,
+
+211
+00:25:25,440 --> 00:25:30,360
+even though it just has two loads, it has one uniformly distributed load and applied load.
+
+212
+00:25:30,570 --> 00:25:34,380
+Now, the kind of beam you see over here is called a beam with an overhead.
+
+213
+00:25:34,700 --> 00:25:48,470
+Okay. So this portion here. As for and over a modern use of a beam, but an overhead is a diving board.
+
+214
+00:25:48,850 --> 00:25:55,490
+Uh, two. Very. You have an overhang, which is what you use to dive off the board.
+
+215
+00:25:56,640 --> 00:26:06,170
+Okay, so this is kind of a beam with overhead, interesting cross-section, but we thank our stars that the cross-section of souls and not.
+
+216
+00:26:09,400 --> 00:26:13,080
+So. Why is that?
+
+217
+00:26:17,630 --> 00:26:27,530
+I should thank my sons because, uh, this one would require, very possibly require the application of the parallel axis theorem for each piece.
+
+218
+00:26:29,980 --> 00:26:37,210
+This one is acquired in parallel. Access to this one has not acquired the parallel, I suspect.
+
+219
+00:26:38,890 --> 00:26:44,440
+Although that's axis theorem. It's not impossible to do, but it just takes an extra few minutes of like expert to know practice.
+
+220
+00:26:44,440 --> 00:26:47,650
+How to do the parallel axis theorems and statics is a prerequisite for this course,
+
+221
+00:26:47,950 --> 00:26:53,620
+which means you are expected to know how to deal with this problem at the cross-section being rotated.
+
+222
+00:26:54,250 --> 00:27:00,100
+Okay, so I said I wouldn't be focusing on the shear force bending moment diagram.
+
+223
+00:27:00,100 --> 00:27:06,999
+And that's because remains the case. I show you what it is and eventually, like in the next day or so, I will share the solution via canvas.
+
+224
+00:27:07,000 --> 00:27:08,830
+So you'll see it. Um.
+
+225
+00:27:12,730 --> 00:27:19,230
+Uh, also, one more thing I'd like to say is the way I have structured these two pages is what we'll probably see on the final exam.
+
+226
+00:27:19,500 --> 00:27:23,790
+You'll have 4 or 5 or six problems with 1 or 2 pages of space allotted.
+
+227
+00:27:23,790 --> 00:27:30,520
+So one page and two pages will be printed back to back off, uh, double sided book.
+
+228
+00:27:31,440 --> 00:27:33,989
+And this is pretty much the space you have, uh,
+
+229
+00:27:33,990 --> 00:27:39,860
+to communicate the preamble for the problem and any other space that you've got allocated is for that particular problem.
+
+230
+00:27:40,860 --> 00:27:45,470
+So you want to be aware that that's the reason I did this. Uh, and, you know, the training wheels are off.
+
+231
+00:27:45,480 --> 00:27:51,210
+I'm not providing you with boxes to fill any of them anymore. You should be able to manage the real estate you have for that.
+
+232
+00:27:51,750 --> 00:27:57,750
+Now, coming back to the solution, what's the given information? We have the beam span, the cross-sectional geometry and the loading.
+
+233
+00:27:58,840 --> 00:28:02,610
+Loading. What do we need to find? Sigma Max down Max and D locations.
+
+234
+00:28:04,290 --> 00:28:08,510
+Equations that are relevant. Flexner formula. She hasn't been.
+
+235
+00:28:08,940 --> 00:28:12,810
+Um. Uh, what is this, uh, moment of inertia of a rectangular cross-section?
+
+236
+00:28:13,260 --> 00:28:20,970
+Uh, add the general equation for fast movement of areas. So this problem involves all the concepts being concepts we've had so far.
+
+237
+00:28:21,120 --> 00:28:26,730
+Shear force bending moment diagram. Flexible model stresses and horizontal distance check.
+
+238
+00:28:28,260 --> 00:28:32,870
+Uh, the assumptions, the standard assumptions of mechanics of materials and that of supporting theories.
+
+239
+00:28:34,460 --> 00:28:38,900
+That's my being. The diagram was pretty simple to draw.
+
+240
+00:28:39,620 --> 00:28:48,350
+Uh, go up by 1,161 pounds, go down by an additional, uh, five times, force 2,000 pounds to -840.
+
+241
+00:28:48,830 --> 00:28:54,530
+That remains constant. Uh, for that particular portion, go up by 1040,
+
+242
+00:28:54,590 --> 00:29:00,230
+which takes you to a level of 200 pounds and then drops to zero again, which gives you your shear force that.
+
+243
+00:29:01,610 --> 00:29:04,880
+Okay. Now, what is interesting is the point of crossover.
+
+244
+00:29:07,190 --> 00:29:15,620
+We need to find x and four minus x, because the portion of uniformly distributed load axon is about four feet, not about because four feet.
+
+245
+00:29:16,490 --> 00:29:23,510
+To find the point of crossovers, you need to apply, uh, find the loss and find that the height divided by the base of this triangle,
+
+246
+00:29:23,510 --> 00:29:27,690
+that ratio equals to the height divided by the base of this book.
+
+247
+00:29:27,950 --> 00:29:33,500
+Therefore, you can find x as 1.68ft and four minus x as 2.3.
+
+248
+00:29:35,230 --> 00:29:40,240
+Okay. Why do you need that? You need that to accurately construct your bending moment diagram.
+
+249
+00:29:41,050 --> 00:29:45,900
+That's why you read that. So next I construct my bending moment diagram, which is again, you know,
+
+250
+00:29:45,910 --> 00:29:50,290
+from left to right to compute the areas under your shear force pieces and start adding them.
+
+251
+00:29:50,920 --> 00:29:56,560
+Recognizing that a linear decline in the shearing force would mean that you have a quadratic bending moment.
+
+252
+00:29:57,840 --> 00:30:01,830
+So two with a circle around it essentially means it's a quadratic cost.
+
+253
+00:30:03,360 --> 00:30:08,730
+So I construct my shear force and my bending moment diagram. And I actually just.
+
+254
+00:30:11,000 --> 00:30:14,530
+Think it's 1345.6 probably is the maximum bending moment.
+
+255
+00:30:14,540 --> 00:30:17,629
+I could be wrong. You should definitely know. Uh, yeah.
+
+256
+00:30:17,630 --> 00:30:23,240
+No it is, it should be. Okay, so that's where that's how you construct your force in your bending moment diagrams.
+
+257
+00:30:23,240 --> 00:30:30,950
+Try this out on your own. Once I publish this as a PDF on canvas, uh, under, uh, module three, uh, you should be able to work this out on your own.
+
+258
+00:30:31,460 --> 00:30:37,460
+Uh, compare your solutions. Uh, that's what I have. So once I have my shear force and bending moment.
+
+259
+00:30:37,460 --> 00:30:42,590
+So where would I have the maximum normal stress?
+
+260
+00:30:43,340 --> 00:30:47,950
+Along the beam? Along the. What location?
+
+261
+00:30:50,260 --> 00:30:54,190
+Maximum. Novel stress. Flexible mouth muscles.
+
+262
+00:30:56,170 --> 00:31:00,820
+What's the normal stress equation? My divided by eight. So it's easy to tell where.
+
+263
+00:31:01,270 --> 00:31:06,640
+Uh, in the cross section of the beam, you would have a maximum. But if the bottom or top fibers of this particular cross section,
+
+264
+00:31:07,540 --> 00:31:13,480
+where along the beam along the length of the beam, would you have a maximum level space principle?
+
+265
+00:31:14,520 --> 00:31:23,180
+What to do with the capital to see. To 232 to 222 because that's the location of the maximum bending moment.
+
+266
+00:31:24,050 --> 00:31:28,880
+So whatever maximizes this value is where you have your maximum allowable stress.
+
+267
+00:31:28,910 --> 00:31:34,640
+It's very simple math right. So it's the maximum normal stress.
+
+268
+00:31:39,440 --> 00:31:44,750
+Is, although I put a minus here. Recognize that since we again have a symmetric cross-section,
+
+269
+00:31:44,870 --> 00:31:49,580
+you can do a minus plus or plus minus is the same maximum model stress at the top and bottom five positive.
+
+270
+00:31:49,940 --> 00:31:53,240
+So although the flexor formula itself has a negative side.
+
+271
+00:31:53,450 --> 00:31:57,560
+Given this particular cross-section you can say minus plus or plus minus either what's.
+
+272
+00:32:00,140 --> 00:32:08,180
+Maximum bending moment. Maximum value of Y divided by the, uh, moment of inertia of the cross-section.
+
+273
+00:32:08,780 --> 00:32:15,620
+In this case, the maximum bending moment apparently is 1,345.6.
+
+274
+00:32:18,420 --> 00:32:22,090
+Five foot, uh, since everything else is in inches.
+
+275
+00:32:22,110 --> 00:32:27,960
+I will introduce a further multiplicative factor of 12, which is what the bench.
+
+276
+00:32:29,930 --> 00:32:35,190
+Uh. And why not? So for this particular cross-section.
+
+277
+00:32:35,880 --> 00:32:39,830
+What's my y. Max? If that's my neutral axis.
+
+278
+00:32:42,000 --> 00:32:45,780
+And Alexis goes right to the center left right lane of this car section.
+
+279
+00:32:46,230 --> 00:32:51,799
+What's why Max. Three inches.
+
+280
+00:32:51,800 --> 00:32:56,870
+Three inches as well. Three inches, because that is three inches.
+
+281
+00:32:58,000 --> 00:33:05,130
+That's. Just divided by the movement of inertia.
+
+282
+00:33:05,150 --> 00:33:11,420
+How do you compute the moment of inertia of this thing? Yes.
+
+283
+00:33:11,960 --> 00:33:15,020
+Waiting for our ship to surface.
+
+284
+00:33:15,320 --> 00:33:18,890
+Okay, that's a choice of moment of inertia.
+
+285
+00:33:19,550 --> 00:33:21,080
+Excellent. So, I repeat,
+
+286
+00:33:21,620 --> 00:33:27,790
+take the moment of inertia of the two set of pieces and add that whilst the moment of inertia of either of the left or the right increases.
+
+287
+00:33:27,800 --> 00:33:32,760
+Right? Absolutely. So in this case, in a moment of inertia.
+
+288
+00:33:32,810 --> 00:33:41,730
+One set of these times two. So two times 112 he is one inch x is six.
+
+289
+00:33:41,730 --> 00:33:48,180
+So six q must. Two times 112.
+
+290
+00:33:49,960 --> 00:33:54,180
+Uh, he is still one inch wide. Height is.
+
+291
+00:33:54,190 --> 00:34:06,720
+Thank you. So this. So those sections.
+
+292
+00:34:08,890 --> 00:34:17,070
+Well, this. So those sanctions okay.
+
+293
+00:34:25,350 --> 00:34:33,960
+It says. So I did the math here, and I knew you should please confirm this because my friends and boneheaded insisted on buttons on the calculator.
+
+294
+00:34:34,230 --> 00:34:58,630
+Sigma Max is plus or minus or minus plus. I really want to put it 1.196 KCI at top or bottom five US at x equals 2.232.
+
+295
+00:35:07,000 --> 00:35:10,600
+So the crux of this problem lies in computing the moment of inertia accurately.
+
+296
+00:35:15,940 --> 00:35:19,660
+Actually, you don't need all this room which is allotted for this problem, but that's okay.
+
+297
+00:35:20,460 --> 00:35:25,560
+Um. Okay. The next thing I have is horizontal shear.
+
+298
+00:35:26,010 --> 00:35:30,160
+Maximum horizontal surface. It's a bit of a mess.
+
+299
+00:35:31,390 --> 00:35:35,410
+Maximum horizontal shear. So.
+
+300
+00:35:39,550 --> 00:35:45,160
+Max x Gonzalez horizontal shear.
+
+301
+00:35:46,570 --> 00:35:50,260
+Where does that have a neutral axis or top and bottom fibers?
+
+302
+00:35:51,130 --> 00:35:55,660
+Horizontal maximum horizontal shear neutralizes shear stress.
+
+303
+00:35:55,660 --> 00:35:59,080
+Horizontal share and beams maximum as a neutral axis. Normal stresses.
+
+304
+00:35:59,080 --> 00:36:02,710
+If I'm able to complete my job, you will find that minimum is at the neutral axis.
+
+305
+00:36:02,950 --> 00:36:14,560
+Maximum stop about this maximum horizontal here, uh, is at the neutral axis, uh, location of max shear force.
+
+306
+00:36:16,060 --> 00:36:21,640
+So the location of the maximum shear force is actually at the left, and the left support 1,160 pounds.
+
+307
+00:36:21,730 --> 00:36:26,709
+Bounce up after 1,160 pounds is the maximum shearing force at the floor.
+
+308
+00:36:26,710 --> 00:36:31,810
+If you have the maximum shear it kind of makes sense. The support is where maybe this thing will tear off, uh, to shear.
+
+309
+00:36:34,030 --> 00:36:46,040
+So it's about Max. Is re max q divided by IP.
+
+310
+00:36:48,500 --> 00:36:52,850
+Crazy. Emacs is 1,160 pounds.
+
+311
+00:36:53,990 --> 00:36:56,360
+This one. They have it all written down.
+
+312
+00:36:56,990 --> 00:37:07,040
+You write for each of these sections, so you want to find the Q for the outer sections, but one of the outer sections, and multiply that by two,
+
+313
+00:37:07,190 --> 00:37:13,310
+because you have two outer sections that are symmetric and q for one of the inner the central sections and multiply that with two.
+
+314
+00:37:13,430 --> 00:37:18,140
+That's what's going on. So that would be.
+
+315
+00:37:20,180 --> 00:37:23,190
+175 times 130 1.5.
+
+316
+00:37:23,190 --> 00:37:38,360
+That's the area of section times two plus 1.51.6 times two divided by the moment of inertia, which we just didn't see this page.
+
+317
+00:37:38,360 --> 00:37:45,050
+But I have the number equals the two times one times six cubed.
+
+318
+00:37:46,410 --> 00:37:50,370
+Uh, two divided by 21 times.
+
+319
+00:37:52,290 --> 00:37:55,530
+What's the thickness of interest for the neutral axis?
+
+320
+00:37:57,570 --> 00:38:13,360
+Four inches. So if I, if I've done my math right here, this is 0.145 to this file.
+
+321
+00:38:16,260 --> 00:38:23,680
+At left. Supports that reactors.
+
+322
+00:38:27,560 --> 00:38:31,080
+So I don't think it'll be q-value at all. I won't prompt you, goes on.
+
+323
+00:38:31,110 --> 00:38:36,170
+Yes I will. People like. This.
+
+324
+00:38:38,430 --> 00:38:44,010
+No, it's for the. Oh my goodness. But you know you're right.
+
+325
+00:38:44,040 --> 00:38:48,010
+Typically this one right. So is that the one also works with the.
+
+326
+00:38:49,050 --> 00:38:53,100
+So what would that change this to. If it is three one half of that.
+
+327
+00:38:54,000 --> 00:38:58,770
+072. Yes, sir. I think so.
+
+328
+00:39:01,430 --> 00:39:08,480
+No no no no no. What am I talking about? Yeah. Zero 75 this this was about to be 1.1 45I think so.
+
+329
+00:39:08,680 --> 00:39:16,430
+So okay. Thank you for catching that update. This also. Oh, that's that's good stuff.
+
+330
+00:39:19,690 --> 00:39:26,560
+Okay. So. So to do this problem I was talking about, what if it took me about 18 minutes?
+
+331
+00:39:27,230 --> 00:39:35,950
+Plus, I kind of know how to go about this. So a problem of this complexity, if you can get this down and 16 minutes in a really good shape,
+
+332
+00:39:37,750 --> 00:39:42,080
+16 minutes, because that's 80% of the time you have for each problem faster.
+
+333
+00:39:42,400 --> 00:39:49,810
+So although I have only that much for today, uh, I would like to just review some of the other examples that I have left.
+
+334
+00:39:49,960 --> 00:39:59,140
+Uh, so if you've already collected your exam, please. Stop recording here.
+
+335
+00:40:01,190 --> 00:40:01,440
+Uh.
+
