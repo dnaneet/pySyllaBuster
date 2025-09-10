@@ -1,6 +1,6 @@
 # pySyllaBuster 🧠📚
 
-**pySyllaBuster** is a Python-based tool designed to help students and educators by extracting lecture transcript contents that are semantically similar to some keyword or key-phrase of interest. It leverages natural language processing along with FastText for semantic embedding.  
+**pySyllaBuster** is a Python-based tool designed to help students and instructors by extracting lecture recording transcripts contents that are semantically similar to some keyword or key-phrase of interest. It leverages natural language processing along with FastText for semantic embedding.  
 
 ## Features
 - 📄 Parses lecture transcripts.
